@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: Awesome MCP Servers
-description: A curated list of awesome Model Context Protocol (MCP) servers, tools, SDKs, and resources.
+description: Curated MCP servers, tools, SDKs, clients, and learning resources.
+url: https://dhanushnehru.github.io
+baseurl: /awesome-mcp-servers
