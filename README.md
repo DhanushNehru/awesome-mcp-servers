@@ -59,9 +59,10 @@
 
 > **Note:** This section is actively being populated! If you build security-focused MCP servers, please contribute!
 
-- [VirusTotal MCP](#) - Analyze files, domains, IPs, and URLs.
-- [Shodan MCP](#) - Query Shodan for connected devices.
-- [Dependency Scanner MCP](#) - Scan lockfiles (package.json, etc.) for vulnerabilities.
+- [VirusTotal MCP](https://github.com/yassinech-99/virustotal_mcp) - Query VirusTotal for file, URL, IP, and domain threat intelligence.
+- [Shodan MCP](https://github.com/Cyreslab-AI/shodan-mcp-server) - Access Shodan search and host intelligence tools from an MCP client.
+- [OSV MCP](https://github.com/StacklokLabs/osv-mcp) - Search the OSV vulnerability database for package advisories and remediation context.
+- [Nmap MCP](https://github.com/PhialsBasement/nmap-mcp-server) - Run AI-assisted network scans and service discovery with Nmap.
 
 ## Clients & Integration
 
