@@ -1,8 +1,8 @@
-# Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome Model Context Protocol (MCP) servers, tools, SDKs, and resources.
 
-[Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open standard introduced by Anthropic that enables AI assistants like Claude to securely connect with local and remote resources. It acts as the "USB-C for AI," providing a universal way to expose tools and context to Large Language Models.
+[Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro) is an open standard introduced by Anthropic that enables AI assistants like Claude to securely connect with local and remote resources. It acts as the "USB-C for AI," providing a universal way to expose tools and context to Large Language Models.
 
 ---
 
@@ -21,37 +21,37 @@
 
 ## Core / Official
 
-- [Model Context Protocol Specification](https://spec.modelcontextprotocol.io/) - The official specification for the protocol.
+- [Model Context Protocol Specification](https://modelcontextprotocol.io/docs/) - The official specification for the protocol.
 - [Anthropic MCP SDKs](https://github.com/modelcontextprotocol) - Official TypeScript and Python SDKs.
 - [Anthropic Reference Servers](https://github.com/modelcontextprotocol/servers) - The official repository containing reference implementations (Brave Search, GitHub, Postgres, etc.).
 
 ## Development & DevOps
 
-- [GitHub MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/github) - Official reference server for interacting with GitHub (Issues, PRs, Repos, Code Search).
+- [GitHub MCP Server](https://github.com/modelcontextprotocol/servers) - Official reference server for interacting with GitHub (Issues, PRs, Repos, Code Search).
 - [GitLab MCP Server](#) - *(Coming Soon / Community Implementation)*
-- [Docker MCP Server](https://github.com/ckreiling/docker-mcp) - Interact with Docker daemon (containers, images, logs) via Claude.
+- [Docker MCP Server](#) - Interact with Docker daemon (containers, images, logs) via Claude.
 - [Kubernetes MCP](#) - Connect your cluster to Claude for natural language debugging.
 - [AWS MCP](#) - Manage AWS resources and query CloudWatch logs.
 
 ## Databases & Data Management
 
-- [PostgreSQL MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) - Official reference server to execute read-only queries against PostgreSQL databases.
-- [SQLite MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) - Connect to local SQLite databases.
+- [PostgreSQL MCP](https://github.com/modelcontextprotocol/servers) - Official reference server to execute read-only queries against PostgreSQL databases.
+- [SQLite MCP](https://github.com/modelcontextprotocol/servers) - Connect to local SQLite databases.
 - [Redis MCP](#) - Interact with Redis caches.
 - [DuckDB MCP](#) - Analytical queries on massive local files.
-- [Neo4j MCP](https://github.com/neo4j-labs/mcp-neo4j) - Query and visualize graph data with Cypher.
+- [Neo4j MCP](https://github.com/neo4j/mcp) - Query and visualize graph data with Cypher.
 
 ## Web & Search
 
-- [Brave Search MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) - Official integration for web search via Brave.
+- [Brave Search MCP](https://github.com/modelcontextprotocol/servers) - Official integration for web search via Brave.
 - [Exa Search MCP](#) - AI-focused web search integration.
 - [Firecrawl MCP](#) - Scrape and crawl websites into LLM-ready markdown.
-- [Puppeteer MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) - Browser automation to interact with dynamic web pages.
+- [Puppeteer MCP](https://github.com/modelcontextprotocol/servers) - Browser automation to interact with dynamic web pages.
 
 ## Productivity & Collaboration
 
-- [Slack MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) - Read messages and interact with Slack workspaces.
-- [Google Drive MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) - Access and read files securely.
+- [Slack MCP](https://github.com/modelcontextprotocol/servers) - Read messages and interact with Slack workspaces.
+- [Google Drive MCP](https://github.com/modelcontextprotocol/servers) - Access and read files securely.
 - [Notion MCP](#) - Query Notion databases and pages.
 - [Linear MCP](#) - Manage tasks and issues in Linear.
 
@@ -67,9 +67,9 @@
 
 Tools and applications that support the Model Context Protocol:
 
-- [Claude Desktop](https://claude.ai/download) - The official desktop app from Anthropic with built-in MCP support.
+- [Claude Desktop](https://claude.com/download) - The official desktop app from Anthropic with built-in MCP support.
 - [Cursor](https://cursor.com/) - The AI code editor with native MCP configuration capabilities.
-- [Windsurf](https://codeium.com/windsurf) - AI IDE supporting MCP for context provision.
+- [Windsurf](https://windsurf.com/editor) - AI IDE supporting MCP for context provision.
 
 ## Resources & Guides
 
