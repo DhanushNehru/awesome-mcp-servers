@@ -78,6 +78,12 @@ Tools and applications that support the Model Context Protocol:
 - [MCP in Action: Use Cases](#)
 
 ---
+## AI Coding Assistants & Developer Tools
+
+Tools and platforms for AI-powered software development:
+
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense. [MIT]
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update. [MIT]
 
 ## Contributing
 
