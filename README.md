@@ -32,6 +32,7 @@
 - [Docker MCP Server](#) - Interact with Docker daemon (containers, images, logs) via Claude.
 - [Kubernetes MCP](#) - Connect your cluster to Claude for natural language debugging.
 - [AWS MCP](#) - Manage AWS resources and query CloudWatch logs.
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant compression), genetic algorithm evolution, predictive bug detection, PageRank knowledge graph, and swarm intelligence. Works as an MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/theihtisham/agent-shadow-brain?style=social)
 
 ## Databases & Data Management
 
@@ -76,6 +77,7 @@ Tools and applications that support the Model Context Protocol:
 - [Introducing the Model Context Protocol (Anthropic Blog)](https://www.anthropic.com/news/model-context-protocol)
 - [How to Build Your First MCP Server](#) - Community guide.
 - [MCP in Action: Use Cases](#)
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor. ![GitHub Repo stars](https://img.shields.io/github/stars/theihtisham/omni-skills-forge?style=social)
 
 ---
 
