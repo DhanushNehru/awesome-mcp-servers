@@ -62,6 +62,7 @@
 - [VirusTotal MCP](#) - Analyze files, domains, IPs, and URLs.
 - [Shodan MCP](#) - Query Shodan for connected devices.
 - [Dependency Scanner MCP](#) - Scan lockfiles (package.json, etc.) for vulnerabilities.
+- [EnigmAgent MCP](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs.
 
 ## Clients & Integration
 
