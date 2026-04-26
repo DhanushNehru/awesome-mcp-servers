@@ -14,6 +14,7 @@
 - [Web & Search](#web--search)
 - [Productivity & Collaboration](#productivity--collaboration)
 - [Security & OSINT](#security--osint)
+- [Creative & Media](#creative--media)
 - [Clients & Integration](#clients--integration)
 - [Resources & Guides](#resources--guides)
 
@@ -63,6 +64,10 @@
 - [Shodan MCP](#) - Query Shodan for connected devices.
 - [Dependency Scanner MCP](#) - Scan lockfiles (package.json, etc.) for vulnerabilities.
 - [EnigmAgent MCP](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs.
+
+## Creative & Media
+
+- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server routing image generation prompts across 30+ models (DALL-E, Flux, Stable Diffusion, Midjourney, and more) via a unified API. `npm install -g prompt-to-asset`.
 
 ## Clients & Integration
 
