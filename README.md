@@ -67,7 +67,7 @@
 
 ## Creative & Media
 
-- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server routing image generation prompts across 30+ models (DALL-E, Flux, Stable Diffusion, Midjourney, and more) via a unified API. `npm install -g prompt-to-asset`.
+- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server for routing image generation prompts across multiple models.
 
 ## Clients & Integration
 
