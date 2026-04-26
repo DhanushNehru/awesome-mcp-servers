@@ -29,40 +29,40 @@
 ## Development & DevOps
 
 - [GitHub MCP Server](https://github.com/modelcontextprotocol/servers) - Official reference server for interacting with GitHub (Issues, PRs, Repos, Code Search).
-- [GitLab MCP Server](#) - *(Coming Soon / Community Implementation)*
-- [Docker MCP Server](#) - Interact with Docker daemon (containers, images, logs) via Claude.
-- [Kubernetes MCP](#) - Connect your cluster to Claude for natural language debugging.
-- [AWS MCP](#) - Manage AWS resources and query CloudWatch logs.
+- GitLab MCP Server - *(Coming Soon / Community Implementation)*
+- Docker MCP Server - Interact with Docker daemon (containers, images, logs) via Claude.
+- Kubernetes MCP - Connect your cluster to Claude for natural language debugging.
+- AWS MCP - Manage AWS resources and query CloudWatch logs.
 
 ## Databases & Data Management
 
 - [PostgreSQL MCP](https://github.com/modelcontextprotocol/servers) - Official reference server to execute read-only queries against PostgreSQL databases.
 - [SQLite MCP](https://github.com/modelcontextprotocol/servers) - Connect to local SQLite databases.
-- [Redis MCP](#) - Interact with Redis caches.
-- [DuckDB MCP](#) - Analytical queries on massive local files.
+- Redis MCP - Interact with Redis caches.
+- DuckDB MCP - Analytical queries on massive local files.
 - [Neo4j MCP](https://github.com/neo4j/mcp) - Query and visualize graph data with Cypher.
 
 ## Web & Search
 
 - [Brave Search MCP](https://github.com/modelcontextprotocol/servers) - Official integration for web search via Brave.
-- [Exa Search MCP](#) - AI-focused web search integration.
-- [Firecrawl MCP](#) - Scrape and crawl websites into LLM-ready markdown.
+- Exa Search MCP - AI-focused web search integration.
+- Firecrawl MCP - Scrape and crawl websites into LLM-ready markdown.
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers) - Browser automation to interact with dynamic web pages.
 
 ## Productivity & Collaboration
 
 - [Slack MCP](https://github.com/modelcontextprotocol/servers) - Read messages and interact with Slack workspaces.
 - [Google Drive MCP](https://github.com/modelcontextprotocol/servers) - Access and read files securely.
-- [Notion MCP](#) - Query Notion databases and pages.
-- [Linear MCP](#) - Manage tasks and issues in Linear.
+- Notion MCP - Query Notion databases and pages.
+- Linear MCP - Manage tasks and issues in Linear.
 
 ## Security & OSINT
 
 > **Note:** This section is actively being populated! If you build security-focused MCP servers, please contribute!
 
-- [VirusTotal MCP](#) - Analyze files, domains, IPs, and URLs.
-- [Shodan MCP](#) - Query Shodan for connected devices.
-- [Dependency Scanner MCP](#) - Scan lockfiles (package.json, etc.) for vulnerabilities.
+- VirusTotal MCP - Analyze files, domains, IPs, and URLs.
+- Shodan MCP - Query Shodan for connected devices.
+- Dependency Scanner MCP - Scan lockfiles (package.json, etc.) for vulnerabilities.
 - [EnigmAgent MCP](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs.
 
 ## Creative & Media
@@ -80,8 +80,8 @@ Tools and applications that support the Model Context Protocol:
 ## Resources & Guides
 
 - [Introducing the Model Context Protocol (Anthropic Blog)](https://www.anthropic.com/news/model-context-protocol)
-- [How to Build Your First MCP Server](#) - Community guide.
-- [MCP in Action: Use Cases](#)
+- How to Build Your First MCP Server - Community guide.
+- MCP in Action: Use Cases
 
 ---
 
