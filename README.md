@@ -63,6 +63,7 @@
 - [Shodan MCP](#) - Query Shodan for connected devices.
 - [Dependency Scanner MCP](#) - Scan lockfiles (package.json, etc.) for vulnerabilities.
 - [EnigmAgent MCP](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs.
+- [Voidly MCP](https://www.npmjs.com/package/@voidly/mcp-server) - Global internet censorship intelligence with 116 tools. Query OONI / IODA / CensoredPlanet evidence across 119+ countries, look up 5,356 citable incidents, check domain or service accessibility, and run ML-driven shutdown forecasts. Free read endpoints, no API key. `npx @voidly/mcp-server`.
 
 ## Clients & Integration
 
