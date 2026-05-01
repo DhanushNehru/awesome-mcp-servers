@@ -32,6 +32,7 @@
 - GitLab MCP Server - *(Coming Soon / Community Implementation)*
 - Docker MCP Server - Interact with Docker daemon (containers, images, logs) via Claude.
 - Kubernetes MCP - Connect your cluster to Claude for natural language debugging.
+- [KubeStellar Console kc-agent](https://github.com/kubestellar/console) - MCP server for AI-assisted multi-cluster Kubernetes operations across edge and cloud. CNCF Sandbox project.
 - AWS MCP - Manage AWS resources and query CloudWatch logs.
 
 ## Databases & Data Management
