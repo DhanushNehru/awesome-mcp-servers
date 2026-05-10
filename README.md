@@ -12,6 +12,7 @@
 - [Development & DevOps](#development--devops)
 - [Databases & Data Management](#databases--data-management)
 - [Web & Search](#web--search)
+- [E-commerce & Retail](#e-commerce--retail)
 - [Productivity & Collaboration](#productivity--collaboration)
 - [Security & OSINT](#security--osint)
 - [Creative & Media](#creative--media)
@@ -48,6 +49,10 @@
 - Exa Search MCP - AI-focused web search integration.
 - Firecrawl MCP - Scrape and crawl websites into LLM-ready markdown.
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers) - Browser automation to interact with dynamic web pages.
+
+## E-commerce & Retail
+
+- [Packrift MCP](https://github.com/Packrift/packrift-mcp) - Packaging catalog search, pricing, inventory, and cart URLs.
 
 ## Productivity & Collaboration
 
