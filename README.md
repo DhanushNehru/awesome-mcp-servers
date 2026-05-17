@@ -34,6 +34,7 @@
 - Docker MCP Server - Interact with Docker daemon (containers, images, logs) via Claude.
 - Kubernetes MCP - Connect your cluster to Claude for natural language debugging.
 - AWS MCP - Manage AWS resources and query CloudWatch logs.
+- [click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) - Auto-wrap any CLI as an MCP server for AI agent tool use.
 
 ## Databases & Data Management
 
