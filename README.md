@@ -60,6 +60,7 @@
 - [Slack MCP](https://github.com/modelcontextprotocol/servers) - Read messages and interact with Slack workspaces.
 - [Google Drive MCP](https://github.com/modelcontextprotocol/servers) - Access and read files securely.
 - Notion MCP - Query Notion databases and pages.
+- [Origin MCP](https://github.com/7xuanlu/origin) - Local MCP server for session handoffs, decisions, and project context across MCP clients.
 - Linear MCP - Manage tasks and issues in Linear.
 
 ## Security & OSINT
