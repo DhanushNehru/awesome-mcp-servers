@@ -64,6 +64,10 @@
 - [Origin MCP](https://github.com/7xuanlu/origin) - Local MCP server for session handoffs, decisions, and project context across MCP clients.
 - Linear MCP - Manage tasks and issues in Linear.
 
+## Blockchain & Payments
+
+- [TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final) - Solana-native trust scoring and x402 payment receipt MCP server for AI agents. Free preflight checks; paid signed V5 trust receipts. Streamable-HTTP at https://intel.twzrd.xyz/mcp
+
 ## Security & OSINT
 
 > **Note:** This section is actively being populated! If you build security-focused MCP servers, please contribute!
