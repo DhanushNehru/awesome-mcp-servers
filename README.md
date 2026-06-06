@@ -66,7 +66,7 @@
 
 ## Blockchain & Payments
 
-- [TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final) - Solana-native trust scoring and x402 payment receipt MCP server for AI agents. Free preflight checks; paid signed V5 trust receipts. Streamable-HTTP at https://intel.twzrd.xyz/mcp
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana-native trust scoring and x402 payment receipt MCP server for AI agents. Free preflight checks; paid signed V5 trust receipts. Streamable-HTTP at https://intel.twzrd.xyz/mcp
 
 ## Security & OSINT
 
