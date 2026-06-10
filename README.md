@@ -77,6 +77,7 @@
 ## Creative & Media
 
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server for routing image generation prompts across multiple models.
+- [RunAPI](https://github.com/runapi-ai/mcp) - MCP server for AI model jobs, including image, video, music/audio, and LLM tasks.
 
 ## Clients & Integration
 
