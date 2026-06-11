@@ -36,6 +36,7 @@
 - Docker MCP Server - Interact with Docker daemon (containers, images, logs) via Claude.
 - Kubernetes MCP - Connect your cluster to Claude for natural language debugging.
 - AWS MCP - Manage AWS resources and query CloudWatch logs.
+- [StatusCraft](https://github.com/jabbawocky/statuscraft) - Real-time status monitoring for 141 major services (GitHub, AWS, Stripe, Datadog, Sentry, etc.). Ask Claude "is GitHub down?" and get a live answer with full incident detail. No API key required.
 
 ## Databases & Data Management
 
@@ -63,6 +64,7 @@
 - Notion MCP - Query Notion databases and pages.
 - [Origin MCP](https://github.com/7xuanlu/origin) - Local MCP server for session handoffs, decisions, and project context across MCP clients.
 - Linear MCP - Manage tasks and issues in Linear.
+- [ProposalCraft](https://github.com/jabbawocky/proposalcraft) - Drafts client proposals in your voice from your past winning work. Freelancers paste a client brief and get a ready-to-send proposal in seconds. Free tier, MIT licensed, no API key needed.
 
 ## Security & OSINT
 
