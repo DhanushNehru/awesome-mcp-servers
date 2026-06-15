@@ -45,6 +45,7 @@
 - Redis MCP - Interact with Redis caches.
 - DuckDB MCP - Analytical queries on massive local files.
 - [Neo4j MCP](https://github.com/neo4j/mcp) - Query and visualize graph data with Cypher.
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 
 ## Web & Search
 
