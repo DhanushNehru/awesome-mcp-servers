@@ -16,6 +16,7 @@
 - [Productivity & Collaboration](#productivity--collaboration)
 - [Security & OSINT](#security--osint)
 - [Creative & Media](#creative--media)
+- [Travel](#travel)
 - [Clients & Integration](#clients--integration)
 - [Resources & Guides](#resources--guides)
 
@@ -83,6 +84,10 @@
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server for routing image generation prompts across multiple models.
 - [RunAPI](https://github.com/runapi-ai/mcp) - MCP server for AI model jobs, including image, video, music/audio, and LLM tasks.
 - [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) - Renders 4-6s animated b-roll overlay videos (mp4) for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok) and landscape YouTube. Paste your script into Claude Code / Cursor / Codex; the MCP server writes the scene spec and renders the mp4. Built on Remotion + Tabler + Lottie. Free, MIT, local.
+
+## Travel
+
+- [Ignav Flights](https://github.com/gusgordon/ignav-skill) - Hosted MCP server providing live flight prices, booking links, and airport lookup.
 
 ## Clients & Integration
 
