@@ -13,6 +13,7 @@
 - [Databases & Data Management](#databases--data-management)
 - [Web & Search](#web--search)
 - [E-commerce & Retail](#e-commerce--retail)
+- [Marketing & Advertising](#marketing--advertising)
 - [Productivity & Collaboration](#productivity--collaboration)
 - [Security & OSINT](#security--osint)
 - [Creative & Media](#creative--media)
@@ -58,6 +59,10 @@
 ## E-commerce & Retail
 
 - [Packrift MCP](https://github.com/Packrift/packrift-mcp) - Packaging catalog search, pricing, inventory, and cart URLs.
+
+## Marketing & Advertising
+
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data through the [Google Ads MCP](https://github.com/nowork-studio/NotFair/tree/main/google-ads), [Meta Ads MCP](https://github.com/nowork-studio/NotFair/tree/main/meta-ads), Google Search Console MCP, and Google Analytics (GA4) MCP. MIT licensed, ~2.9k stars.
 
 ## Productivity & Collaboration
 
