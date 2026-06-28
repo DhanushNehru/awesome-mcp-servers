@@ -81,6 +81,7 @@
 - Dependency Scanner MCP - Scan lockfiles (package.json, etc.) for vulnerabilities.
 - [EnigmAgent MCP](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs.
 - [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data and automation MCP server for tweet search, user lookup, follower export, media download, monitors, webhooks, and confirmation-gated write actions.
+- [FilingFirehose MCP](https://filingfirehose.com/mcp) - Hosted SEC EDGAR MCP for any US ticker. Surfaces SEC 8-K Item 1.05 cyber incidents, dilution events, restatement risk, and officer departures with body-text parsing that catches buried items beyond filer-reported items. Remote endpoint at `https://filingfirehose.com/mcp`.
 
 ## Creative & Media
 
