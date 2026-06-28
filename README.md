@@ -64,6 +64,7 @@
 - Exa Search MCP - AI-focused web search integration.
 - Firecrawl MCP - Scrape and crawl websites into LLM-ready markdown.
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers) - Browser automation to interact with dynamic web pages.
+- [LLM Pulse MCP](https://github.com/estevecastells/llmpulse-mcp) - AI search visibility (GEO/AEO): brand mentions, citations, share of voice and AI-referred traffic across ChatGPT, Perplexity, Gemini and Google AI Overviews.
 
 ## Analytics & Marketing
 
@@ -94,6 +95,7 @@
 - [EnigmAgent MCP](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs.
 - [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data and automation MCP server for tweet search, user lookup, follower export, media download, monitors, webhooks, and confirmation-gated write actions.
 - [mcp-guard](https://github.com/alvabillwu/mcp-guard) - Security scanner for MCP server tools. Detects potential security vulnerabilities and misconfigurations in tool implementations.
+- [DomScan MCP](https://github.com/estevecastells/domscan-mcp) - Domain intelligence: availability, DNS, WHOIS/RDAP, SSL, subdomains, valuation, email security and typosquatting/brand protection.
 
 ## Creative & Media
 
