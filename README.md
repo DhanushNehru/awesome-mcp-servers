@@ -31,6 +31,7 @@
 ## Development & DevOps
 
 - [GitHub MCP Server](https://github.com/modelcontextprotocol/servers) - Official reference server for interacting with GitHub (Issues, PRs, Repos, Code Search).
+- [Hephaestus](https://github.com/agentlas-ai/Hephaestus) - Local MCP-enabled runtime for routing coding agents and skills across Claude Code, Codex, and Cursor.
 - [MartinLoop MCP](https://github.com/Keesan12/martin-loop/tree/main/packages/mcp) - Governed MCP runtime for AI coding agents with budget caps, verifier gates, and inspectable runs.
 - [Tuning Engines](https://github.com/cerebrixos-org/tuning-engines-cli) - Govern model, agent, skill, and MCP workflows with policy controls, approvals, traces, and usage analytics. Install with `npx -y --package tuningengines-cli@latest te mcp serve`.
 - [ax](https://github.com/Necmttn/ax) - Local-first MCP server and CLI for querying AI coding-agent sessions, skills, tool use, costs, and workflow telemetry from a SurrealDB graph.
