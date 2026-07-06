@@ -12,6 +12,7 @@
 - [Development & DevOps](#development--devops)
 - [Databases & Data Management](#databases--data-management)
 - [Web & Search](#web--search)
+- [Analytics & Marketing](#analytics--marketing)
 - [E-commerce & Retail](#e-commerce--retail)
 - [Productivity & Collaboration](#productivity--collaboration)
 - [Security & OSINT](#security--osint)
@@ -57,6 +58,10 @@
 - Exa Search MCP - AI-focused web search integration.
 - Firecrawl MCP - Scrape and crawl websites into LLM-ready markdown.
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers) - Browser automation to interact with dynamic web pages.
+
+## Analytics & Marketing
+
+- [LLM Pulse](https://github.com/LLM-Pulse/llmpulse-mcp) - AI search visibility analytics over MCP for brand mentions, citations, sentiment, share of voice, tracked prompts, recommendations, and AI-referred traffic.
 
 ## E-commerce & Retail
 
