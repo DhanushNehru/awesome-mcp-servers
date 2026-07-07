@@ -42,6 +42,10 @@
 - AWS MCP - Manage AWS resources and query CloudWatch logs.
 - [StatusCraft](https://github.com/jabbawocky/statuscraft) - Real-time status monitoring for 141 major services (GitHub, AWS, Stripe, Datadog, Sentry, etc.). Ask Claude "is GitHub down?" and get a live answer with full incident detail. No API key required.
 - [StandupCraft](https://github.com/jabbawocky/standupcraft) - MCP server that reads git commits and GitHub activity to generate daily standups, weekly client reports, and sprint retros inside Claude Desktop. No API key, fully local.
+- [mcp-probe](https://github.com/alvabillwu/mcp-probe) - CLI tool to probe and inspect any MCP server. Lists tools, resources, and prompts, validates schemas, and tests connectivity.
+- [mcp-compliance-lite](https://github.com/alvabillwu/mcp-compliance-lite) - MCP protocol specification conformance tester. Validates server implementations against the MCP spec.
+- [mcp-factory](https://github.com/alvabillwu/mcp-factory) - MCP server scaffolding CLI. Generate new MCP server projects from templates with one command.
+- [mcpindex](https://github.com/alvabillwu/mcpindex) - MCP server search and discovery directory.
 
 ## Databases & Data Management
 
@@ -87,6 +91,7 @@
 - Dependency Scanner MCP - Scan lockfiles (package.json, etc.) for vulnerabilities.
 - [EnigmAgent MCP](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs.
 - [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data and automation MCP server for tweet search, user lookup, follower export, media download, monitors, webhooks, and confirmation-gated write actions.
+- [mcp-guard](https://github.com/alvabillwu/mcp-guard) - Security scanner for MCP server tools. Detects potential security vulnerabilities and misconfigurations in tool implementations.
 
 ## Creative & Media
 
