@@ -46,6 +46,7 @@
 - [mcp-compliance-lite](https://github.com/alvabillwu/mcp-compliance-lite) - MCP protocol specification conformance tester. Validates server implementations against the MCP spec.
 - [mcp-factory](https://github.com/alvabillwu/mcp-factory) - MCP server scaffolding CLI. Generate new MCP server projects from templates with one command.
 - [mcpindex](https://github.com/alvabillwu/mcpindex) - MCP server search and discovery directory.
+- [UIZZE](https://uizze.com) - Codex-first hosted MCP for researching real web and iOS UI references, creating design contracts, and validating, auditing, and critiquing rendered interfaces.
 
 ## Databases & Data Management
 
