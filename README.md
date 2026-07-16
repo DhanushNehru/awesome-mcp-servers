@@ -56,7 +56,7 @@
 - DuckDB MCP - Analytical queries on massive local files.
 - [Neo4j MCP](https://github.com/neo4j/mcp) - Query and visualize graph data with Cypher.
 - [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
-- [AgentServices](https://agentservices.to) — x402-paid crypto market data and intelligence APIs for AI agents. 54 services, 97 endpoints, 37 MCP tools. HTTP 402-native with MCP server access.
+- [AgentServices MCP](https://github.com/vbkotecha/aiservices-api) — x402-paid crypto market data and intelligence APIs for AI agents. [Website](https://agentservices.to) · [MCP server](https://api.agentservices.to/mcp)
 
 ## Web & Search
 
