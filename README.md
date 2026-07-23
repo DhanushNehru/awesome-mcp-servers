@@ -67,6 +67,7 @@
 
 ## Analytics & Marketing
 
+- [Formo](https://formo.so) - Official hosted MCP server for read-only product and onchain analytics, including KPIs, SQL, funnels, retention, revenue, and wallet profiles. [Docs](https://docs.formo.so/mcp/overview).
 - [LLM Pulse](https://github.com/LLM-Pulse/llmpulse-mcp) - AI search visibility analytics over MCP for brand mentions, citations, sentiment, share of voice, tracked prompts, recommendations, and AI-referred traffic.
 
 ## E-commerce & Retail
