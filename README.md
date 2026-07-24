@@ -68,6 +68,7 @@
 ## Analytics & Marketing
 
 - [LLM Pulse](https://github.com/LLM-Pulse/llmpulse-mcp) - AI search visibility analytics over MCP for brand mentions, citations, sentiment, share of voice, tracked prompts, recommendations, and AI-referred traffic.
+- [PostEverywhere](https://github.com/posteverywhere/mcp) - Schedule and publish social posts to 11 platforms (X, Instagram, TikTok, YouTube, LinkedIn and more) with media, campaigns, analytics and AI captions. Hosted remote with OAuth 2.1 at mcp.posteverywhere.ai/mcp.
 
 ## E-commerce & Retail
 
