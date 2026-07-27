@@ -68,6 +68,7 @@
 ## Analytics & Marketing
 
 - [LLM Pulse](https://github.com/LLM-Pulse/llmpulse-mcp) - AI search visibility analytics over MCP for brand mentions, citations, sentiment, share of voice, tracked prompts, recommendations, and AI-referred traffic.
+- [SocialClaw](https://github.com/ndesv21/socialclaw) - Schedule, publish, and track social posts for AI agents across X, LinkedIn, Instagram, Facebook Pages, TikTok, YouTube, Reddit, Pinterest, Discord, Telegram, and WordPress.
 
 ## E-commerce & Retail
 
