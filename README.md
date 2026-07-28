@@ -93,6 +93,7 @@
 - Dependency Scanner MCP - Scan lockfiles (package.json, etc.) for vulnerabilities.
 - [EnigmAgent MCP](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs.
 - [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data and automation MCP server for tweet search, user lookup, follower export, media download, monitors, webhooks, and confirmation-gated write actions.
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform and MCP host covering web, API, Active Directory and Kubernetes, with a local Privacy Gateway that keeps real hosts and credentials away from the model.
 - [mcp-guard](https://github.com/alvabillwu/mcp-guard) - Security scanner for MCP server tools. Detects potential security vulnerabilities and misconfigurations in tool implementations.
 
 ## Creative & Media
