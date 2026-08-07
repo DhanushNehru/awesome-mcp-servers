@@ -64,7 +64,7 @@
 - Exa Search MCP - AI-focused web search integration.
 - Firecrawl MCP - Scrape and crawl websites into LLM-ready markdown.
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers) - Browser automation to interact with dynamic web pages.
-- [AISOTools MCP](https://aisotools.com/mcp) - Remote server for searching, comparing, and finding alternatives across a curated catalog of 1,400+ AI tools in 21 categories. Remote endpoint, no API key.
+- [AISOTools MCP](https://aisotools.com/mcp) - Hosted server for searching, comparing, and finding alternatives across a curated catalog of 1,400+ AI tools in 21 categories. No API key.
 
 ## Analytics & Marketing
 
