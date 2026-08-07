@@ -68,6 +68,7 @@
 ## Analytics & Marketing
 
 - [LLM Pulse](https://github.com/LLM-Pulse/llmpulse-mcp) - AI search visibility analytics over MCP for brand mentions, citations, sentiment, share of voice, tracked prompts, recommendations, and AI-referred traffic.
+- [Autoposting](https://github.com/Autoposting-ai/autoposting-mcp) - Hosted MCP server for social media publishing. Drafts and rewrites posts, generates ideas with AI agents, builds carousels, clips and renders video, searches a knowledge base, and schedules or publishes to X, LinkedIn, Instagram, Threads and YouTube. Streamable HTTP at `https://app.autoposting.ai/mcp` with OAuth 2.1 + DCR; nothing to install locally.
 
 ## E-commerce & Retail
 
