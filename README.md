@@ -42,10 +42,10 @@
 - AWS MCP - Manage AWS resources and query CloudWatch logs.
 - [StatusCraft](https://github.com/jabbawocky/statuscraft) - Real-time status monitoring for 141 major services (GitHub, AWS, Stripe, Datadog, Sentry, etc.). Ask Claude "is GitHub down?" and get a live answer with full incident detail. No API key required.
 - [StandupCraft](https://github.com/jabbawocky/standupcraft) - MCP server that reads git commits and GitHub activity to generate daily standups, weekly client reports, and sprint retros inside Claude Desktop. No API key, fully local.
-- [mcp-probe](https://github.com/alvabillwu/mcp-probe) - CLI tool to probe and inspect any MCP server. Lists tools, resources, and prompts, validates schemas, and tests connectivity.
-- [mcp-compliance-lite](https://github.com/alvabillwu/mcp-compliance-lite) - MCP protocol specification conformance tester. Validates server implementations against the MCP spec.
-- [mcp-factory](https://github.com/alvabillwu/mcp-factory) - MCP server scaffolding CLI. Generate new MCP server projects from templates with one command.
-- [mcpindex](https://github.com/alvabillwu/mcpindex) - MCP server search and discovery directory.
+- [mcp-probe](https://github.com/Incultnitollc/mcp-probe) - MCP server diagnostics — CLI + TypeScript library. Tests every tool, resource, and prompt, then scores health. Published on npm as @incultnitollc/mcp-probe.
+- [mcp-compliance](https://github.com/markndg/mcp-probe) - Contract testing and conformance checks for Model Context Protocol (MCP) servers.
+- [mcp-factory](https://github.com/StackkedJohn/mcp-factory) - Generate production-ready MCP servers from API documentation in one command.
+- [mcpindex](https://github.com/mcpindex-ai/mcpindex-web) - The agent-native index of MCP servers — discovery layer over the official MCP registry.
 - [UIZZE](https://uizze.com) - Codex-first hosted MCP for researching real web and iOS UI references, creating design contracts, and validating, auditing, and critiquing rendered interfaces.
 
 ## Databases & Data Management
@@ -55,8 +55,8 @@
 - Redis MCP - Interact with Redis caches.
 - DuckDB MCP - Analytical queries on massive local files.
 - [Neo4j MCP](https://github.com/neo4j/mcp) - Query and visualize graph data with Cypher.
-- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
-- [AgentServices MCP](https://github.com/vbkotecha/aiservices-api) — x402-paid crypto market data and intelligence APIs for AI agents. [Website](https://agentservices.to) · [MCP server](https://api.agentservices.to/mcp)
+- [Helium MCP](https://github.com/substreambc/helium-mcp) — Open (MIT) x402-metered MCP for the SNTL Helium × Solana DePIN intelligence datalake — pay-per-call in USDC on Solana. First tier free.
+- [AgentServices MCP](https://github.com/vbkotecha/aiservices-api) — x402-paid crypto market data and intelligence APIs for AI agents.
 
 ## Web & Search
 
@@ -95,7 +95,7 @@
 - Dependency Scanner MCP - Scan lockfiles (package.json, etc.) for vulnerabilities.
 - [EnigmAgent MCP](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs.
 - [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data and automation MCP server for tweet search, user lookup, follower export, media download, monitors, webhooks, and confirmation-gated write actions.
-- [mcp-guard](https://github.com/alvabillwu/mcp-guard) - Security scanner for MCP server tools. Detects potential security vulnerabilities and misconfigurations in tool implementations.
+- [mcp-guard](https://github.com/SaravanaGuhan/mcp-guard) - Comprehensive security scanner for Model Context Protocol (MCP) servers.
 
 ## Creative & Media
 
