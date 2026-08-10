@@ -64,6 +64,7 @@
 - [Brave Search MCP](https://github.com/modelcontextprotocol/servers) - Official integration for web search via Brave.
 - Exa Search MCP - AI-focused web search integration.
 - Firecrawl MCP - Scrape and crawl websites into LLM-ready markdown.
+- [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) - Free remote MCP for live web search and URL fetching (`web_search`, `web_fetch`), with no account or API key required.
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers) - Browser automation to interact with dynamic web pages.
 - [AISOTools MCP](https://aisotools.com/mcp) - Hosted MCP server to search, compare, and find alternatives across an AI tool catalog (21 categories). No API key required.
 
