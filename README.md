@@ -32,6 +32,7 @@
 
 ## Development & DevOps
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Local MCP server for authoring, running, and triaging natural-language web and mobile tests with persistent test memory and self-healing flows.
 - [GitHub MCP Server](https://github.com/modelcontextprotocol/servers) - Official reference server for interacting with GitHub (Issues, PRs, Repos, Code Search).
 - [Hephaestus](https://github.com/agentlas-ai/Hephaestus) - Local MCP-enabled runtime for routing coding agents and skills across Claude Code, Codex, and Cursor.
 - [MartinLoop MCP](https://github.com/Keesan12/martin-loop/tree/main/packages/mcp) - Governed MCP runtime for AI coding agents with budget caps, verifier gates, and inspectable runs.
