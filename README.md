@@ -121,7 +121,7 @@ Tools and applications that support the Model Context Protocol:
 
 - [Claude Desktop](https://claude.com/download) - The official desktop app from Anthropic with built-in MCP support.
 - [Cursor](https://cursor.com/) - The AI code editor with native MCP configuration capabilities.
-- [Windsurf](https://windsurf.com/editor) - AI IDE supporting MCP for context provision.
+- [Windsurf](https://windsurf.com/) - AI IDE supporting MCP for context provision.
 
 ## Resources & Guides
 
