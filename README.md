@@ -33,11 +33,10 @@
 ## Development & DevOps
 
 - [GitHub MCP Server](https://github.com/modelcontextprotocol/servers) - Official reference server for interacting with GitHub (Issues, PRs, Repos, Code Search).
-- [Hephaestus](https://github.com/agentlas-ai/Hephaestus) - Local MCP-enabled runtime for routing coding agents and skills across Claude Code, Codex, and Cursor.
+- [Hephaestus](https://github.com/agentlas-ai/Agentlas-OS) - Local MCP-enabled runtime for routing coding agents and skills across Claude Code, Codex, and Cursor.
 - [MartinLoop MCP](https://github.com/Keesan12/martin-loop/tree/main/packages/mcp) - Governed MCP runtime for AI coding agents with budget caps, verifier gates, and inspectable runs.
 - [Tuning Engines](https://github.com/cerebrixos-org/tuning-engines-cli) - Govern model, agent, skill, and MCP workflows with policy controls, approvals, traces, and usage analytics. Install with `npx -y --package tuningengines-cli@latest te mcp serve`.
 - [ax](https://github.com/Necmttn/ax) - Local-first MCP server and CLI for querying AI coding-agent sessions, skills, tool use, costs, and workflow telemetry from a SurrealDB graph.
-- [Causeway](https://wildernessinteractive.com/causeway) - Rust MCP server that drives Chromium through the Chrome DevTools Protocol, with no browser extension, Node, or Python dependency.
 - GitLab MCP Server - *(Coming Soon / Community Implementation)*
 - Docker MCP Server - Interact with Docker daemon (containers, images, logs) via Claude.
 - Kubernetes MCP - Connect your cluster to Claude for natural language debugging.
@@ -58,7 +57,7 @@
 - DuckDB MCP - Analytical queries on massive local files.
 - [Neo4j MCP](https://github.com/neo4j/mcp) - Query and visualize graph data with Cypher.
 - [Helium MCP](https://github.com/substreambc/helium-mcp) — Open (MIT) x402-metered MCP for the SNTL Helium × Solana DePIN intelligence datalake — pay-per-call in USDC on Solana. First tier free.
-- [AgentServices MCP](https://github.com/vbkotecha/aiservices-api) — x402-paid crypto market data and intelligence APIs for AI agents.
+- [AgentServices MCP](https://github.com/vbkotecha/agentservices-api) — x402-paid crypto market data and intelligence APIs for AI agents.
 
 ## Web & Search
 
@@ -87,7 +86,7 @@
 - [Slack MCP](https://github.com/modelcontextprotocol/servers) - Read messages and interact with Slack workspaces.
 - [Google Drive MCP](https://github.com/modelcontextprotocol/servers) - Access and read files securely.
 - Notion MCP - Query Notion databases and pages.
-- [Origin MCP](https://github.com/7xuanlu/origin) - Local MCP server for session handoffs, decisions, and project context across MCP clients.
+- [Origin MCP](https://github.com/7xuanlu/wenlan) - Local MCP server for session handoffs, decisions, and project context across MCP clients.
 - [AccInt](https://github.com/maxbaluev/accreted-intelligence) - Local-first MCP memory substrate for coding agents with scored retrieval, commitments, and reality-gated outcomes.
 - Linear MCP - Manage tasks and issues in Linear.
 - [ProposalCraft](https://github.com/jabbawocky/proposalcraft) - Drafts client proposals in your voice from your past winning work. Freelancers paste a client brief and get a ready-to-send proposal in seconds. Free tier, MIT licensed, no API key needed.
@@ -121,7 +120,7 @@ Tools and applications that support the Model Context Protocol:
 
 - [Claude Desktop](https://claude.com/download) - The official desktop app from Anthropic with built-in MCP support.
 - [Cursor](https://cursor.com/) - The AI code editor with native MCP configuration capabilities.
-- [Windsurf](https://windsurf.com/editor) - AI IDE supporting MCP for context provision.
+- [Windsurf](https://windsurf.com/) - AI IDE supporting MCP for context provision.
 
 ## Resources & Guides
 
