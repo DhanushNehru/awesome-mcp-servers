@@ -114,6 +114,7 @@
 ## Travel
 
 - [Ignav Flights](https://github.com/gusgordon/ignav-skill) - Hosted MCP server providing live flight prices, booking links, and airport lookup.
+- [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) - Remote MCP to search peer-to-peer luxury, exotic, and EV rentals from independent hosts. Booking finishes in the iOS app. Streamable HTTP at https://pocketdrives.ai/mcp.
 
 ## Clients & Integration
 
