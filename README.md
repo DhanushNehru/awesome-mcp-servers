@@ -14,6 +14,7 @@
 - [Web & Search](#web--search)
 - [Analytics & Marketing](#analytics--marketing)
 - [E-commerce & Retail](#e-commerce--retail)
+- [Marketing & Advertising](#marketing--advertising)
 - [Productivity & Collaboration](#productivity--collaboration)
 - [Security & OSINT](#security--osint)
 - [Creative & Media](#creative--media)
@@ -32,7 +33,7 @@
 ## Development & DevOps
 
 - [GitHub MCP Server](https://github.com/modelcontextprotocol/servers) - Official reference server for interacting with GitHub (Issues, PRs, Repos, Code Search).
-- [Hephaestus](https://github.com/agentlas-ai/Hephaestus) - Local MCP-enabled runtime for routing coding agents and skills across Claude Code, Codex, and Cursor.
+- [Hephaestus](https://github.com/agentlas-ai/Agentlas-OS) - Local MCP-enabled runtime for routing coding agents and skills across Claude Code, Codex, and Cursor.
 - [MartinLoop MCP](https://github.com/Keesan12/martin-loop/tree/main/packages/mcp) - Governed MCP runtime for AI coding agents with budget caps, verifier gates, and inspectable runs.
 - [Tuning Engines](https://github.com/cerebrixos-org/tuning-engines-cli) - Govern model, agent, skill, and MCP workflows with policy controls, approvals, traces, and usage analytics. Install with `npx -y --package tuningengines-cli@latest te mcp serve`.
 - [ax](https://github.com/Necmttn/ax) - Local-first MCP server and CLI for querying AI coding-agent sessions, skills, tool use, costs, and workflow telemetry from a SurrealDB graph.
@@ -42,10 +43,10 @@
 - AWS MCP - Manage AWS resources and query CloudWatch logs.
 - [StatusCraft](https://github.com/jabbawocky/statuscraft) - Real-time status monitoring for 141 major services (GitHub, AWS, Stripe, Datadog, Sentry, etc.). Ask Claude "is GitHub down?" and get a live answer with full incident detail. No API key required.
 - [StandupCraft](https://github.com/jabbawocky/standupcraft) - MCP server that reads git commits and GitHub activity to generate daily standups, weekly client reports, and sprint retros inside Claude Desktop. No API key, fully local.
-- [mcp-probe](https://github.com/alvabillwu/mcp-probe) - CLI tool to probe and inspect any MCP server. Lists tools, resources, and prompts, validates schemas, and tests connectivity.
-- [mcp-compliance-lite](https://github.com/alvabillwu/mcp-compliance-lite) - MCP protocol specification conformance tester. Validates server implementations against the MCP spec.
-- [mcp-factory](https://github.com/alvabillwu/mcp-factory) - MCP server scaffolding CLI. Generate new MCP server projects from templates with one command.
-- [mcpindex](https://github.com/alvabillwu/mcpindex) - MCP server search and discovery directory.
+- [mcp-probe](https://github.com/Incultnitollc/mcp-probe) - MCP server diagnostics — CLI + TypeScript library. Tests every tool, resource, and prompt, then scores health. Published on npm as @incultnitollc/mcp-probe.
+- [mcp-compliance](https://github.com/markndg/mcp-probe) - Contract testing and conformance checks for Model Context Protocol (MCP) servers.
+- [mcp-factory](https://github.com/StackkedJohn/mcp-factory) - Generate production-ready MCP servers from API documentation in one command.
+- [mcpindex](https://github.com/mcpindex-ai/mcpindex-web) - The agent-native index of MCP servers — discovery layer over the official MCP registry.
 - [UIZZE](https://uizze.com) - Codex-first hosted MCP for researching real web and iOS UI references, creating design contracts, and validating, auditing, and critiquing rendered interfaces.
 
 ## Databases & Data Management
@@ -55,23 +56,31 @@
 - Redis MCP - Interact with Redis caches.
 - DuckDB MCP - Analytical queries on massive local files.
 - [Neo4j MCP](https://github.com/neo4j/mcp) - Query and visualize graph data with Cypher.
-- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
-- [AgentServices MCP](https://github.com/vbkotecha/aiservices-api) — x402-paid crypto market data and intelligence APIs for AI agents. [Website](https://agentservices.to) · [MCP server](https://api.agentservices.to/mcp)
+- [Helium MCP](https://github.com/substreambc/helium-mcp) — Open (MIT) x402-metered MCP for the SNTL Helium × Solana DePIN intelligence datalake — pay-per-call in USDC on Solana. First tier free.
+- [AgentServices MCP](https://github.com/vbkotecha/agentservices-api) — x402-paid crypto market data and intelligence APIs for AI agents.
 
 ## Web & Search
 
 - [Brave Search MCP](https://github.com/modelcontextprotocol/servers) - Official integration for web search via Brave.
 - Exa Search MCP - AI-focused web search integration.
 - Firecrawl MCP - Scrape and crawl websites into LLM-ready markdown.
+- [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) - Free remote MCP for live web search and URL fetching (`web_search`, `web_fetch`), with no account or API key required.
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers) - Browser automation to interact with dynamic web pages.
+- [AISOTools MCP](https://aisotools.com/mcp) - Hosted MCP server to search, compare, and find alternatives across an AI tool catalog (21 categories). No API key required.
 
 ## Analytics & Marketing
 
+- [Formo](https://formo.so) - Official hosted MCP server for read-only product and onchain analytics, including KPIs, SQL, funnels, retention, revenue, and wallet profiles. [Docs](https://docs.formo.so/mcp/overview).
 - [LLM Pulse](https://github.com/LLM-Pulse/llmpulse-mcp) - AI search visibility analytics over MCP for brand mentions, citations, sentiment, share of voice, tracked prompts, recommendations, and AI-referred traffic.
+- [Autoposting](https://github.com/Autoposting-ai/autoposting-mcp) - Hosted MCP server for social media publishing. Drafts and rewrites posts, generates ideas with AI agents, builds carousels, clips and renders video, searches a knowledge base, and schedules or publishes to X, LinkedIn, Instagram, Threads and YouTube. Streamable HTTP at `https://app.autoposting.ai/mcp` with OAuth 2.1 + DCR; nothing to install locally.
 
 ## E-commerce & Retail
 
 - [Packrift MCP](https://github.com/Packrift/packrift-mcp) - Packaging catalog search, pricing, inventory, and cart URLs.
+
+## Marketing & Advertising
+
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data through the [Google Ads MCP](https://github.com/nowork-studio/NotFair/tree/main/google-ads), [Meta Ads MCP](https://github.com/nowork-studio/NotFair/tree/main/meta-ads), Google Search Console MCP, and Google Analytics (GA4) MCP. MIT licensed, ~2.9k stars.
 
 ## Productivity & Collaboration
 
@@ -93,10 +102,11 @@
 - Dependency Scanner MCP - Scan lockfiles (package.json, etc.) for vulnerabilities.
 - [EnigmAgent MCP](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs.
 - [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data and automation MCP server for tweet search, user lookup, follower export, media download, monitors, webhooks, and confirmation-gated write actions.
-- [mcp-guard](https://github.com/alvabillwu/mcp-guard) - Security scanner for MCP server tools. Detects potential security vulnerabilities and misconfigurations in tool implementations.
+- [mcp-guard](https://github.com/SaravanaGuhan/mcp-guard) - Comprehensive security scanner for Model Context Protocol (MCP) servers.
 
 ## Creative & Media
 
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local TypeScript MCP server and CLI for composing, editing, analyzing, and rendering videos from coding agents.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server for routing image generation prompts across multiple models.
 - [RunAPI](https://github.com/runapi-ai/mcp) - MCP server for AI model jobs, including image, video, music/audio, and LLM tasks.
 - [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) - Renders 4-6s animated b-roll overlay videos (mp4) for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok) and landscape YouTube. Paste your script into Claude Code / Cursor / Codex; the MCP server writes the scene spec and renders the mp4. Built on Remotion + Tabler + Lottie. Free, MIT, local.
@@ -111,7 +121,7 @@ Tools and applications that support the Model Context Protocol:
 
 - [Claude Desktop](https://claude.com/download) - The official desktop app from Anthropic with built-in MCP support.
 - [Cursor](https://cursor.com/) - The AI code editor with native MCP configuration capabilities.
-- [Windsurf](https://windsurf.com/editor) - AI IDE supporting MCP for context provision.
+- [Windsurf](https://windsurf.com/) - AI IDE supporting MCP for context provision.
 
 ## Resources & Guides
 
