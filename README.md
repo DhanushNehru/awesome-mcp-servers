@@ -10,6 +10,7 @@
 
 - [Core / Official](#core--official)
 - [Development & DevOps](#development--devops)
+- [AI Agents](#ai-agents)
 - [Databases & Data Management](#databases--data-management)
 - [Web & Search](#web--search)
 - [Analytics & Marketing](#analytics--marketing)
@@ -48,6 +49,17 @@
 - [mcp-factory](https://github.com/StackkedJohn/mcp-factory) - Generate production-ready MCP servers from API documentation in one command.
 - [mcpindex](https://github.com/mcpindex-ai/mcpindex-web) - The agent-native index of MCP servers — discovery layer over the official MCP registry.
 - [UIZZE](https://uizze.com) - Codex-first hosted MCP for researching real web and iOS UI references, creating design contracts, and validating, auditing, and critiquing rendered interfaces.
+- [x402-cloudflare-starter](https://github.com/ANAMIZED/x402-cloudflare-starter) - Cloudflare Workers starter for USDC x402 micropayments on Base and Solana.
+
+## AI Agents
+
+- [LRSI](https://github.com/ANAMIZED/LRSI) - Local recursive self-improvement OS MCP with a closed-loop runtime core.
+- [NeedRail](https://github.com/ANAMIZED/NeedRail) - Needs registry MCP with x402 payments for public-goods coordination.
+- [OpenGOS](https://github.com/ANAMIZED/OpenGOS) - MCP server for grants discovery, matching, drafting, and lifecycle management.
+- [OpenMesha](https://github.com/ANAMIZED/OpenMesha) - Agentic operations mesh MCP for local economic and cryptographic coordination.
+- [Server-OS](https://github.com/ANAMIZED/Server-OS) - Fail-closed agentic OS MCP with cost control, governance, observability, SDK, CLI, and skills.
+- [SuperAgenticMCP](https://github.com/ANAMIZED/SuperAgenticMCP) - MCP-native multi-agent router for task planning, tool-call routing, and result memory.
+- [YodMCP](https://github.com/ANAMIZED/YodMCP) - Autonomous MCP server and agent OS with multi-graph memory, tasks, skills, A2A, and OpenTelemetry (Python, stdio+HTTP).
 
 ## Databases & Data Management
 
