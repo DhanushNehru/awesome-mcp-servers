@@ -87,7 +87,7 @@
 - [Slack MCP](https://github.com/modelcontextprotocol/servers) - Read messages and interact with Slack workspaces.
 - [Google Drive MCP](https://github.com/modelcontextprotocol/servers) - Access and read files securely.
 - Notion MCP - Query Notion databases and pages.
-- [Origin MCP](https://github.com/7xuanlu/wenlan) - Local MCP server for session handoffs, decisions, and project context across MCP clients.
+- [Wenlan MCP](https://github.com/7xuanlu/wenlan) - Local-first AI knowledge base and LLM wiki with source-cited pages, session handoffs, and hybrid retrieval across MCP clients.
 - [AccInt](https://github.com/maxbaluev/accreted-intelligence) - Local-first MCP memory substrate for coding agents with scored retrieval, commitments, and reality-gated outcomes.
 - Linear MCP - Manage tasks and issues in Linear.
 - [ProposalCraft](https://github.com/jabbawocky/proposalcraft) - Drafts client proposals in your voice from your past winning work. Freelancers paste a client brief and get a ready-to-send proposal in seconds. Free tier, MIT licensed, no API key needed.
