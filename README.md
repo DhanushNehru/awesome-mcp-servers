@@ -58,7 +58,7 @@
 - [Neo4j MCP](https://github.com/neo4j/mcp) - Query and visualize graph data with Cypher.
 - [Helium MCP](https://github.com/substreambc/helium-mcp) — Open (MIT) x402-metered MCP for the SNTL Helium × Solana DePIN intelligence datalake — pay-per-call in USDC on Solana. First tier free.
 - [AgentServices MCP](https://github.com/vbkotecha/agentservices-api) — x402-paid crypto market data and intelligence APIs for AI agents.
-- [Live Tennis API MCP](https://github.com/livetennisapi/livetennisapi-mcp) - Live tennis match state over MCP (score, current server, three-valued break-point flag, and match status) plus player rankings and Elo across ATP/WTA/Challenger/ITF. Read-only feed; free tier with no credit card required; listed on the official MCP registry. Disclosure: maintained by the Live Tennis API team.
+- [Live Tennis API MCP](https://github.com/livetennisapi/livetennisapi-mcp) — Live tennis match state (score, current server, three-valued break-point flag, retirement/walkover/completed) plus players, rankings, Elo, and fixtures. Read-only data feed; free tier, no card, on the official MCP Registry.
 
 ## Web & Search
 
