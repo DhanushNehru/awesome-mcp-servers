@@ -62,6 +62,7 @@
 ## Web & Search
 
 - [Brave Search MCP](https://github.com/modelcontextprotocol/servers) - Official integration for web search via Brave.
+- [Worklittle Jobs](https://github.com/worklittle/jobs-mcp) - Search over 4 million jobs with visa, salary, and distance filters, swipe to apply in your AI app, and save roles to a Worklittle account. Remote Streamable HTTP at `https://mcp.worklittle.com/`. Official registry `io.github.worklittle/jobs`.
 - Exa Search MCP - AI-focused web search integration.
 - Firecrawl MCP - Scrape and crawl websites into LLM-ready markdown.
 - [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) - Free remote MCP for live web search and URL fetching (`web_search`, `web_fetch`), with no account or API key required.
