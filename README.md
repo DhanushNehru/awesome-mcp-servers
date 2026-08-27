@@ -110,7 +110,7 @@
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server for routing image generation prompts across multiple models.
 - [RunAPI](https://github.com/runapi-ai/mcp) - MCP server for AI model jobs, including image, video, music/audio, and LLM tasks.
 - [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) - Renders 4-6s animated b-roll overlay videos (mp4) for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok) and landscape YouTube. Paste your script into Claude Code / Cursor / Codex; the MCP server writes the scene spec and renders the mp4. Built on Remotion + Tabler + Lottie. Free, MIT, local.
-- [VidWords](https://github.com/haljishi/vidwords-mcp) - Remote MCP server for YouTube video: searches transcripts across a whole channel, reads captions, and analyses a video's frames, returning answers with citable timestamps. Streamable HTTP with OAuth 2.1.
+- [VidWords](https://github.com/haljishi/vidwords-mcp) - Remote MCP server for YouTube video: searches transcripts across a whole channel, reads captions, and analyzes a video's frames, returning answers with citable timestamps. Streamable HTTP with OAuth 2.1.
 
 ## Travel
 
