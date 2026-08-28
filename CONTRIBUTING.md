@@ -13,7 +13,8 @@ The Model Context Protocol ecosystem is growing rapidly, and keeping this list a
     - Format: `- [Project Name](link) - Brief, objective description.`
     - If the project is notable or official, feel free to note that.
     - Keep descriptions concise.
-5.  **Submit a Pull Request** with a descriptive title and brief explanation of what you added and why it's awesome.
+5.  **Update the table of contents** if you added, removed, or renamed a top-level section by running `npx markdown-toc -i README.md`.
+6.  **Submit a Pull Request** with a descriptive title and brief explanation of what you added and why it's awesome.
 
 ### Quality Standards
 
