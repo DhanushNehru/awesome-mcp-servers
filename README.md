@@ -36,6 +36,7 @@
 - [GitHub MCP Server](https://github.com/modelcontextprotocol/servers) - Official reference server for interacting with GitHub (Issues, PRs, Repos, Code Search).
 - [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - Local-first agent OS exposing MCP tools for portable agent and team packages across supported coding hosts.
 - [MartinLoop MCP](https://github.com/Keesan12/martin-loop/tree/main/packages/mcp) - Governed MCP runtime for AI coding agents with budget caps, verifier gates, and inspectable runs.
+- [RouterBase MCP](https://github.com/zenlee123/routerbase-mcp) - MCP server for model discovery, pricing lookup, and OpenAI-compatible chat completions through [routerbase](https://routerbase.com).
 - [Tuning Engines](https://github.com/cerebrixos-org/tuning-engines-cli) - Govern model, agent, skill, and MCP workflows with policy controls, approvals, traces, and usage analytics. Install with `npx -y --package tuningengines-cli@latest te mcp serve`.
 - [ax](https://github.com/Necmttn/ax) - Local-first MCP server and CLI for querying AI coding-agent sessions, skills, tool use, costs, and workflow telemetry from a SurrealDB graph.
 - GitLab MCP Server - *(Coming Soon / Community Implementation)*
