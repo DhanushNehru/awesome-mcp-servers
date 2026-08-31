@@ -33,6 +33,7 @@
 
 ## Development & DevOps
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Local MCP server for authoring, running, and triaging natural-language web and mobile tests with persistent test memory and self-healing flows.
 - [GitHub MCP Server](https://github.com/modelcontextprotocol/servers) - Official reference server for interacting with GitHub (Issues, PRs, Repos, Code Search).
 - [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - Local-first agent OS exposing MCP tools for portable agent and team packages across supported coding hosts.
 - [MartinLoop MCP](https://github.com/Keesan12/martin-loop/tree/main/packages/mcp) - Governed MCP runtime for AI coding agents with budget caps, verifier gates, and inspectable runs.
