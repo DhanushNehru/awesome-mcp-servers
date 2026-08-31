@@ -89,6 +89,7 @@
 ## E-commerce & Retail
 
 - [Packrift MCP](https://github.com/Packrift/packrift-mcp) - Packaging catalog search, pricing, inventory, and cart URLs.
+- [Wine Labs](https://winelabs.ai/agents) - Hosted Streamable HTTP MCP server for fine-wine identity matching, pricing, auctions, exchange data, merchant comparisons, portfolios, and cellar workflows, with browser OAuth. [Public metadata](https://github.com/imiraoui/winelabs-mcp).
 
 ## Marketing & Advertising
 
