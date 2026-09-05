@@ -18,6 +18,7 @@
 - [Marketing & Advertising](#marketing--advertising)
 - [Productivity & Collaboration](#productivity--collaboration)
 - [Security & OSINT](#security--osint)
+- [Sports Data](#sports-data)
 - [Creative & Media](#creative--media)
 - [Travel](#travel)
 - [Clients & Integration](#clients--integration)
@@ -116,6 +117,10 @@
 - [EnigmAgent MCP](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs.
 - [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data and automation MCP server for tweet search, user lookup, follower export, media download, monitors, webhooks, and confirmation-gated write actions.
 - [mcp-guard](https://github.com/SaravanaGuhan/mcp-guard) - Comprehensive security scanner for Model Context Protocol (MCP) servers.
+
+## Sports Data
+
+- [ParlayAPI](https://github.com/JacobiusMakes/parlay-api-mcp) - Python stdio server for sports odds, player props, public event discovery, and account usage; account data tools require each user's own API key and allowances.
 
 ## Creative & Media
 
