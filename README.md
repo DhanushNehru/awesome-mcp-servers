@@ -101,6 +101,7 @@
 - Notion MCP - Query Notion databases and pages.
 - [Wenlan MCP](https://github.com/7xuanlu/wenlan) - Local-first AI knowledge base and LLM wiki with source-cited pages, session handoffs, and hybrid retrieval across MCP clients.
 - [AccInt](https://github.com/maxbaluev/accreted-intelligence) - Local-first MCP memory substrate for coding agents with scored retrieval, commitments, and reality-gated outcomes.
+- [ContextStream](https://github.com/contextstream/mcp-server) - Shared project context for AI coding agents — hosted MCP with code search, decisions, lessons, and plans.
 - Linear MCP - Manage tasks and issues in Linear.
 - [Process Street](https://github.com/process-street/process-street-mcp) - Hosted Streamable HTTP server for working with Process Street workflows, runs, tasks, users, data sets, and operational records.
 - [ProposalCraft](https://github.com/jabbawocky/proposalcraft) - Drafts client proposals in your voice from your past winning work. Freelancers paste a client brief and get a ready-to-send proposal in seconds. Free tier, MIT licensed, no API key needed.
