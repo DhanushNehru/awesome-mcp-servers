@@ -116,6 +116,7 @@
 - [EnigmAgent MCP](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs.
 - [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data and automation MCP server for tweet search, user lookup, follower export, media download, monitors, webhooks, and confirmation-gated write actions.
 - [mcp-guard](https://github.com/SaravanaGuhan/mcp-guard) - Comprehensive security scanner for Model Context Protocol (MCP) servers.
+- [AffixIO MCP](https://github.com/AffixIO/affixio-mcp) - Local stdio ACTION attestation MCP (`npx -y @affixio/mcp@0.1.0`). Tools: `attest_action`, `verify_action`, `gate_tool_call`. PII stays on the host; not KYC.
 
 ## Creative & Media
 
