@@ -22,6 +22,7 @@
 - [Travel](#travel)
 - [Clients & Integration](#clients--integration)
 - [Resources & Guides](#resources--guides)
+- [Geospatial & Real Estate](#geospatial--real-estate)
 
 ---
 
@@ -144,6 +145,10 @@ Tools and applications that support the Model Context Protocol:
 - MCP in Action: Use Cases
 
 ---
+
+## Geospatial & Real Estate
+
+- [Zornade MCP](https://github.com/zornade/zornade-mcp) - Italian cadastral, geospatial and real-estate data: geocoding, parcel profiles, risk and solar layers, valuations and administrative lists. Remote endpoint with free API key, MIT licensed.
 
 ## Contributing
 
