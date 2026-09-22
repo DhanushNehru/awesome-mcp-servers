@@ -105,6 +105,7 @@
 - [Process Street](https://github.com/process-street/process-street-mcp) - Hosted Streamable HTTP server for working with Process Street workflows, runs, tasks, users, data sets, and operational records.
 - [ProposalCraft](https://github.com/jabbawocky/proposalcraft) - Drafts client proposals in your voice from your past winning work. Freelancers paste a client brief and get a ready-to-send proposal in seconds. Free tier, MIT licensed, no API key needed.
 - [Agentage Memory](https://memory.agentage.io) - Remote, hosted MCP server: one memory shared across every AI you use, mirrored as plain markdown you own. Streamable HTTP at `/mcp` with OAuth 2.1 + PKCE + DCR; tools: memory__search/read/write/edit/list/delete.
+- [Screenpipe](https://github.com/screenpipe/screenpipe/tree/main/packages/screenpipe-mcp) - Search locally captured screen text and audio history through MCP. Source-available under the Screenpipe Commercial License; configured cloud features and connected AI clients may transmit context off-device.
 
 ## Security & OSINT
 
