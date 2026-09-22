@@ -86,6 +86,8 @@
 - [LLM Pulse](https://github.com/LLM-Pulse/llmpulse-mcp) - AI search visibility analytics over MCP for brand mentions, citations, sentiment, share of voice, tracked prompts, recommendations, and AI-referred traffic.
 - [Autoposting](https://github.com/Autoposting-ai/autoposting-mcp) - Hosted MCP server for social media publishing. Drafts and rewrites posts, generates ideas with AI agents, builds carousels, clips and renders video, searches a knowledge base, and schedules or publishes to X, LinkedIn, Instagram, Threads and YouTube. Streamable HTTP at `https://app.autoposting.ai/mcp` with OAuth 2.1 + DCR; nothing to install locally.
 
+- [Unfetch](https://unfetch.com) - Hosted Google Ads MCP server with Google Analytics and Google Search Console reporting, keyword research, and web research; analyze campaign spend, conversions, search terms, and landing pages with read-only account access and OAuth.
+
 ## E-commerce & Retail
 
 - [Packrift MCP](https://github.com/Packrift/packrift-mcp) - Packaging catalog search, pricing, inventory, and cart URLs.
