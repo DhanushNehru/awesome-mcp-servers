@@ -96,6 +96,7 @@
 
 ## Productivity & Collaboration
 
+- [Orbit by Noveum](https://orbit.noveum.ai/mcp) - Hosted Streamable HTTP server for issues, projects, sprints, docs and files with workspace-scoped OAuth.
 - [Slack MCP](https://github.com/modelcontextprotocol/servers) - Read messages and interact with Slack workspaces.
 - [Google Drive MCP](https://github.com/modelcontextprotocol/servers) - Access and read files securely.
 - Notion MCP - Query Notion databases and pages.
