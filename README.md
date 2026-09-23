@@ -89,6 +89,8 @@
 ## E-commerce & Retail
 
 - [Packrift MCP](https://github.com/Packrift/packrift-mcp) - Packaging catalog search, pricing, inventory, and cart URLs.
+- [Zovo Invoice Generator](https://github.com/theluckystrike/mcp-invoice-generator) - Invoice creation, line items, totals, and PDF-ready billing documents over MCP.
+- [Zovo E-commerce Suite](https://github.com/theluckystrike/mcp-e-commerce-suite) - Product catalog, pricing rules, and order management tools for e-commerce workflows.
 
 ## Marketing & Advertising
 
