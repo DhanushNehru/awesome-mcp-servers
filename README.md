@@ -53,6 +53,7 @@
 
 ## AI Agents
 
+- [Aident Loadout](https://github.com/Aident-AI/aident-skill) - Remote MCP connecting AI agents to 1,000+ apps and 400+ skills with Vault-protected credentials, one balance, and full audit.
 - [LRSI](https://github.com/ANAMIZED/LRSI) - Local recursive self-improvement OS MCP with a closed-loop runtime core.
 - [NeedRail](https://github.com/ANAMIZED/NeedRail) - Needs registry MCP with x402 payments for public-goods coordination.
 - [OpenGOS](https://github.com/ANAMIZED/OpenGOS) - MCP server for grants discovery, matching, drafting, and lifecycle management.
