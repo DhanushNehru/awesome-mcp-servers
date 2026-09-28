@@ -1,5 +1,9 @@
 # Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
+
+
+⭐ If this list helps you, consider starring the repo - it helps others discover it and keeps it actively maintained. Forks are great, stars are fuel!
+
 > A curated list of awesome Model Context Protocol (MCP) servers, tools, SDKs, and resources.
 
 [Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro) is an open standard introduced by Anthropic that enables AI assistants like Claude to securely connect with local and remote resources. It acts as the "USB-C for AI," providing a universal way to expose tools and context to Large Language Models.
