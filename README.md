@@ -57,6 +57,7 @@
 
 ## AI Agents
 
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha encrypted knowledge store giving agents MCP search and retrieval through scoped, expiring grants.
 - [LRSI](https://github.com/ANAMIZED/LRSI) - Local recursive self-improvement OS MCP with a closed-loop runtime core.
 - [NeedRail](https://github.com/ANAMIZED/NeedRail) - Needs registry MCP with x402 payments for public-goods coordination.
 - [OpenGOS](https://github.com/ANAMIZED/OpenGOS) - MCP server for grants discovery, matching, drafting, and lifecycle management.
