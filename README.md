@@ -93,6 +93,7 @@
 ## E-commerce & Retail
 
 - [Packrift MCP](https://github.com/Packrift/packrift-mcp) - Packaging catalog search, pricing, inventory, and cart URLs.
+- [BuyWhere](https://api.buywhere.ai/mcp) - Remote MCP server for shopping and product discovery, enabling AI assistants (Claude, Cursor, ChatGPT) to query real-time product catalogs, compare prices, and find merchant listings.
 
 ## Marketing & Advertising
 
