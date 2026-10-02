@@ -124,6 +124,7 @@
 
 ## Creative & Media
 
+- [Continuity](https://github.com/LAHutchins91/continuity-mcp) - Private story bible for fiction writers. Agents manage story projects, search locked canon, update characters/relationships/world rules/timelines, record approved scenes, and run continuity checks. Hosted Streamable HTTP at `https://continuitywriter.com/mcp` with OAuth 2.1. [Docs](https://continuitywriter.com/connect).
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local TypeScript MCP server and CLI for composing, editing, analyzing, and rendering videos from coding agents.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server for routing image generation prompts across multiple models.
 - [RunAPI](https://github.com/runapi-ai/mcp) - MCP server for AI model jobs, including image, video, music/audio, and LLM tasks.
