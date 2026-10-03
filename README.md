@@ -97,6 +97,7 @@
 ## Marketing & Advertising
 
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data through the [Google Ads MCP](https://github.com/nowork-studio/NotFair/tree/main/google-ads), [Meta Ads MCP](https://github.com/nowork-studio/NotFair/tree/main/meta-ads), Google Search Console MCP, and Google Analytics (GA4) MCP. MIT licensed, ~2.9k stars.
+- [LogNorm](https://lognorm.com) - Hosted MCP server that hands your SEO/GEO growth backlog (site audits, fixes, content, AI-visibility tracking) to Claude Code, Codex and Cursor. Streamable HTTP at `https://lognorm.com/api/mcp` with OAuth 2.1, no API keys; [docs](https://lognorm.com/docs/agents).
 
 ## Productivity & Collaboration
 
