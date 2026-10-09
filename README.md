@@ -74,6 +74,7 @@
 - [Neo4j MCP](https://github.com/neo4j/mcp) - Query and visualize graph data with Cypher.
 - [Helium MCP](https://github.com/substreambc/helium-mcp) — Open (MIT) x402-metered MCP for the SNTL Helium × Solana DePIN intelligence datalake — pay-per-call in USDC on Solana. First tier free.
 - [AgentServices MCP](https://github.com/vbkotecha/agentservices-api) — x402-paid crypto market data and intelligence APIs for AI agents.
+- [Fincept MCP](https://github.com/Fincept-Corporation/fincept-mcp-docs) - Hosted MCP server for Fincept Terminal: quotes, candles, option chains, fundamentals, economic data, SEC filings, news, backtests, paper trading and 15 quant engines. OAuth sign-in.
 
 ## Web & Search
 
