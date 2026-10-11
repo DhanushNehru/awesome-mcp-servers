@@ -74,6 +74,7 @@
 - [Neo4j MCP](https://github.com/neo4j/mcp) - Query and visualize graph data with Cypher.
 - [Helium MCP](https://github.com/substreambc/helium-mcp) — Open (MIT) x402-metered MCP for the SNTL Helium × Solana DePIN intelligence datalake — pay-per-call in USDC on Solana. First tier free.
 - [AgentServices MCP](https://github.com/vbkotecha/agentservices-api) — x402-paid crypto market data and intelligence APIs for AI agents.
+- [Invokely](https://invokely.ai/docs/) - Hosted MCP for querying source-cited official statistics by indicator, place, and period, with time series, comparisons, and rankings across U.S. states and counties, EU countries and NUTS 2 regions, Spanish municipalities, and World Bank data for every country and the World. Streamable HTTP at `https://invokely.ai/mcp` with OAuth or an API key; anonymous trial at `https://invokely.ai/mcp/trial` is limited to 25 calls per day per IP.
 
 ## Web & Search
 
