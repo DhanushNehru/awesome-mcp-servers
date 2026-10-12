@@ -37,6 +37,7 @@
 
 ## Development & DevOps
 
+- [Sem](https://github.com/Ataraxy-Labs/sem) - Local stdio MCP server for searching code entities, inspecting dependencies and impact, and reviewing structural diffs in Git repositories.
 - [GitHub MCP Server](https://github.com/modelcontextprotocol/servers) - Official reference server for interacting with GitHub (Issues, PRs, Repos, Code Search).
 - [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - Local-first agent OS exposing MCP tools for portable agent and team packages across supported coding hosts.
 - [MartinLoop MCP](https://github.com/Keesan12/martin-loop/tree/main/packages/mcp) - Governed MCP runtime for AI coding agents with budget caps, verifier gates, and inspectable runs.
