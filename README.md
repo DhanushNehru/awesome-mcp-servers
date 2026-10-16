@@ -83,6 +83,7 @@
 - [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) - Free remote MCP for live web search and URL fetching (`web_search`, `web_fetch`), with no account or API key required.
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers) - Browser automation to interact with dynamic web pages.
 - [AISOTools MCP](https://aisotools.com/mcp) - Hosted MCP server to search, compare, and find alternatives across an AI tool catalog (21 categories). No API key required.
+- [CurlShot MCP](https://github.com/SergiuPogor/curlshot-mcp) - Hosted MCP server that takes screenshots of web pages as PNG, JPEG, WebP, PDF or a scrolling video, with device presets. API key required; free plan available.
 
 ## Analytics & Marketing
 
