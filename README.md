@@ -121,6 +121,7 @@
 - [EnigmAgent MCP](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs.
 - [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data and automation MCP server for tweet search, user lookup, follower export, media download, monitors, webhooks, and confirmation-gated write actions.
 - [mcp-guard](https://github.com/SaravanaGuhan/mcp-guard) - Comprehensive security scanner for Model Context Protocol (MCP) servers.
+- [agentcheck](https://github.com/DhanushNehru/agentcheck) - Zero-dep CLI + GitHub Action that scans MCP configs and AI-agent instruction files (CLAUDE.md, AGENTS.md, .cursor/rules) for hidden prompt injection: invisible unicode decoded in the report, exfil commands, poisoned tool configs.
 
 ## Creative & Media
 
