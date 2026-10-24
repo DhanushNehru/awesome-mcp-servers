@@ -93,6 +93,7 @@
 ## E-commerce & Retail
 
 - [Packrift MCP](https://github.com/Packrift/packrift-mcp) - Packaging catalog search, pricing, inventory, and cart URLs.
+- [BuyWhere MCP](https://github.com/BuyWhere/buywhere-mcp) - Product search and price comparison across merchants via hosted MCP (`https://api.buywhere.ai/mcp`) or `npx -y @buywhere/mcp-server`. Docs: https://docs.buywhere.ai
 
 ## Marketing & Advertising
 
