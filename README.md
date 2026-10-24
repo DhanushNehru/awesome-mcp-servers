@@ -75,6 +75,8 @@
 - [Helium MCP](https://github.com/substreambc/helium-mcp) — Open (MIT) x402-metered MCP for the SNTL Helium × Solana DePIN intelligence datalake — pay-per-call in USDC on Solana. First tier free.
 - [AgentServices MCP](https://github.com/vbkotecha/agentservices-api) — x402-paid crypto market data and intelligence APIs for AI agents.
 
+- [RowSafe](https://github.com/rowsafe/rowsafe) - Database health, backup and recovery workflows, and managed database provisioning via local or remote MCP. The agent, CLI and MCP server are Apache-2.0, with a separate hosted service.
+
 ## Web & Search
 
 - [Brave Search MCP](https://github.com/modelcontextprotocol/servers) - Official integration for web search via Brave.
