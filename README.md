@@ -42,6 +42,7 @@
 - [MartinLoop MCP](https://github.com/Keesan12/martin-loop/tree/main/packages/mcp) - Governed MCP runtime for AI coding agents with budget caps, verifier gates, and inspectable runs.
 - [Tuning Engines](https://github.com/cerebrixos-org/tuning-engines-cli) - Govern model, agent, skill, and MCP workflows with policy controls, approvals, traces, and usage analytics. Install with `npx -y --package tuningengines-cli@latest te mcp serve`.
 - [ax](https://github.com/Necmttn/ax) - Local-first MCP server and CLI for querying AI coding-agent sessions, skills, tool use, costs, and workflow telemetry from a SurrealDB graph.
+- [Selvedge](https://github.com/masondelan/selvedge) - Local MCP server and CLI that stores coding decisions, reasons, and rejected approaches in SQLite for retrieval across agent sessions.
 - GitLab MCP Server - *(Coming Soon / Community Implementation)*
 - Docker MCP Server - Interact with Docker daemon (containers, images, logs) via Claude.
 - Kubernetes MCP - Connect your cluster to Claude for natural language debugging.
