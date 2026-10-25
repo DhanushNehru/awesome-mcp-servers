@@ -74,6 +74,7 @@
 - [Neo4j MCP](https://github.com/neo4j/mcp) - Query and visualize graph data with Cypher.
 - [Helium MCP](https://github.com/substreambc/helium-mcp) — Open (MIT) x402-metered MCP for the SNTL Helium × Solana DePIN intelligence datalake — pay-per-call in USDC on Solana. First tier free.
 - [AgentServices MCP](https://github.com/vbkotecha/agentservices-api) — x402-paid crypto market data and intelligence APIs for AI agents.
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) — Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ## Web & Search
 
