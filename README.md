@@ -74,6 +74,7 @@
 - [Neo4j MCP](https://github.com/neo4j/mcp) - Query and visualize graph data with Cypher.
 - [Helium MCP](https://github.com/substreambc/helium-mcp) — Open (MIT) x402-metered MCP for the SNTL Helium × Solana DePIN intelligence datalake — pay-per-call in USDC on Solana. First tier free.
 - [AgentServices MCP](https://github.com/vbkotecha/agentservices-api) — x402-paid crypto market data and intelligence APIs for AI agents.
+- [Sports Odds API (BetRivers, Unibet & 22 more books)](https://apify.com/publicrecords/sports-odds-api) - Live odds from 24 Kambi-powered sportsbooks in one call — BetRivers (12 US states + Ontario), Unibet, Paf, Svenska Spel, ATG. One row per game with every book's price and the best price per outcome. Hosted Streamable HTTP at `https://mcp.apify.com?tools=publicrecords/sports-odds-api` (Apify OAuth).
 
 ## Web & Search
 
