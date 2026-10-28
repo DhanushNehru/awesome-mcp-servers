@@ -93,6 +93,7 @@
 ## E-commerce & Retail
 
 - [Packrift MCP](https://github.com/Packrift/packrift-mcp) - Packaging catalog search, pricing, inventory, and cart URLs.
+- [Zaptu](https://zaptu.ai/agents/) - Remote MCP server (streamable HTTP at https://api.zaptu.ai/mcp) that sends a consented contact request to local US home-service pros for cleaning, pest control and plumbing. Contact request only, not a booking.
 
 ## Marketing & Advertising
 
