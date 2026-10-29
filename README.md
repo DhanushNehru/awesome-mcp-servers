@@ -93,6 +93,7 @@
 ## E-commerce & Retail
 
 - [Packrift MCP](https://github.com/Packrift/packrift-mcp) - Packaging catalog search, pricing, inventory, and cart URLs.
+- [Budna MCP](https://github.com/budna-marketplace/mcp) - Official read-only server for Budna, a Swedish second-hand marketplace. Search listings and inspect seller profiles, bids, and ratings. No API key needed.
 
 ## Marketing & Advertising
 
