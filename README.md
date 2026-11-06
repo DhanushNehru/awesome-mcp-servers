@@ -44,8 +44,8 @@
 - [ax](https://github.com/Necmttn/ax) - Local-first MCP server and CLI for querying AI coding-agent sessions, skills, tool use, costs, and workflow telemetry from a SurrealDB graph.
 - GitLab MCP Server - *(Coming Soon / Community Implementation)*
 - Docker MCP Server - Interact with Docker daemon (containers, images, logs) via Claude.
-- Kubernetes MCP - Connect your cluster to Claude for natural language debugging.
-- AWS MCP - Manage AWS resources and query CloudWatch logs.
+- [Kubernetes MCP](https://github.com/containers/kubernetes-mcp-server) - Connect your cluster to Claude for natural language debugging.
+- [AWS MCP](https://github.com/awslabs/mcp) - Manage AWS resources and query CloudWatch logs.
 - [StatusCraft](https://github.com/jabbawocky/statuscraft) - Real-time status monitoring for 141 major services (GitHub, AWS, Stripe, Datadog, Sentry, etc.). Ask Claude "is GitHub down?" and get a live answer with full incident detail. No API key required.
 - [StandupCraft](https://github.com/jabbawocky/standupcraft) - MCP server that reads git commits and GitHub activity to generate daily standups, weekly client reports, and sprint retros inside Claude Desktop. No API key, fully local.
 - [mcp-probe](https://github.com/Incultnitollc/mcp-probe) - MCP server diagnostics — CLI + TypeScript library. Tests every tool, resource, and prompt, then scores health. Published on npm as @incultnitollc/mcp-probe.
