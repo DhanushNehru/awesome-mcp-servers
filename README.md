@@ -122,6 +122,7 @@
 - [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data and automation MCP server for tweet search, user lookup, follower export, media download, monitors, webhooks, and confirmation-gated write actions.
 - [mcp-guard](https://github.com/SaravanaGuhan/mcp-guard) - Comprehensive security scanner for Model Context Protocol (MCP) servers.
 - [agentcheck](https://github.com/DhanushNehru/agentcheck) - Zero-dep CLI + GitHub Action that scans MCP configs and AI-agent instruction files (CLAUDE.md, AGENTS.md, .cursor/rules) for hidden prompt injection: invisible unicode decoded in the report, exfil commands, poisoned tool configs.
+- [ichi-mcp](https://github.com/bernik-bot/ichi-mcp) - Keyless MCP server for the Internet Cyber Health Index (ICHI): fetch the current internet-wide threat band and score, recent critical vulnerability advisories, and source health. Run with `uvx --from git+https://github.com/bernik-bot/ichi-mcp ichi-mcp`.
 
 ## Creative & Media
 
