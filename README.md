@@ -125,6 +125,7 @@
 
 ## Creative & Media
 
+- [AppScreen](https://appscreen.pro) - Hosted MCP server for designing App Store and Google Play screenshots (iPhone, iPad, Android) in the AppScreen browser editor. Streamable HTTP at `https://appscreen.pro/mcp` with OAuth; requires an AppScreen Pro account.
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local TypeScript MCP server and CLI for composing, editing, analyzing, and rendering videos from coding agents.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server for routing image generation prompts across multiple models.
 - [RunAPI](https://github.com/runapi-ai/mcp) - MCP server for AI model jobs, including image, video, music/audio, and LLM tasks.
