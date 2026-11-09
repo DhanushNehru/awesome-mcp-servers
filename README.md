@@ -146,6 +146,7 @@ Tools and applications that support the Model Context Protocol:
 ## Resources & Guides
 
 - [Introducing the Model Context Protocol (Anthropic Blog)](https://www.anthropic.com/news/model-context-protocol)
+- [SolidCraft CAD MCP setup](https://solidcraftcad.com/solidcraft-mcp) - Guide to connecting AI agents to SolidCraft open-source CAD via its built-in MCP server.
 - How to Build Your First MCP Server - Community guide.
 - MCP in Action: Use Cases
 
