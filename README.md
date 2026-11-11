@@ -105,6 +105,9 @@
 - [link-check-lite](https://github.com/tidybytetools/link-check-lite) - Check a list of links for broken ones and redirect chains (CLI + MCP).
 - [md-chunk-lite](https://github.com/tidybytetools/md-chunk-lite) - Split Markdown into heading-based chunks with path and line numbers (CLI + MCP).
 - [json-shaper-lite](https://github.com/tidybytetools/json-shaper-lite) - Turn key:value notes, CSV/TSV and Markdown tables into typed JSON (CLI + MCP).
+- [base64-lite](https://github.com/tidybytetools/base64-lite) - Encode or decode Base64 for text and local files, with URL-safe and data-URI options (CLI + MCP).
+- [json-repair-lite](https://github.com/tidybytetools/json-repair-lite) - Repair broken or incomplete JSON, including model output (CLI + MCP).
+- [hash-lite](https://github.com/tidybytetools/hash-lite) - Hash text or local files with SHA-256, SHA-1, MD5 and SHA-512 (CLI + MCP).
 
 - [Slack MCP](https://github.com/modelcontextprotocol/servers) - Read messages and interact with Slack workspaces.
 - [Google Drive MCP](https://github.com/modelcontextprotocol/servers) - Access and read files securely.
