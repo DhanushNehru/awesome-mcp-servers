@@ -55,6 +55,8 @@
 - [UIZZE](https://uizze.com) - Codex-first hosted MCP for researching real web and iOS UI references, creating design contracts, and validating, auditing, and critiquing rendered interfaces.
 - [x402-cloudflare-starter](https://github.com/ANAMIZED/x402-cloudflare-starter) - Cloudflare Workers starter for USDC x402 micropayments on Base and Solana.
 
+- [Lantern Works](https://github.com/connormatthewdouglas/agent-work-stack-deals) - Read-only, keyless MCP for GPU rental price comparison across tracked providers, with cited rates and each price's age. Install: `uvx lantern-works-deals-mcp`. Docs: https://thelanternworks.com/for-agents/?ref=gh-dhanushmcp
+
 ## AI Agents
 
 - [LRSI](https://github.com/ANAMIZED/LRSI) - Local recursive self-improvement OS MCP with a closed-loop runtime core.
