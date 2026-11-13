@@ -125,6 +125,8 @@
 
 ## Creative & Media
 
+- [Kling AI MCP (China)](https://github.com/klingai-dev/openclaw-plugin) - Official hosted image/video generation, reference workflows and task tracking at `https://klingai.com/mcp/plugin` (Streamable HTTP + OAuth), using a matching regional account and generation credits; China and Global accounts, credits and task IDs are separate.
+- [Kling AI MCP (Global)](https://github.com/klingai-tech/claude-plugin) - Official hosted image/video generation, reference workflows and task tracking at `https://kling.ai/mcp/plugin` (Streamable HTTP + OAuth), using a matching regional account and generation credits; China and Global accounts, credits and task IDs are separate.
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local TypeScript MCP server and CLI for composing, editing, analyzing, and rendering videos from coding agents.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server for routing image generation prompts across multiple models.
 - [RunAPI](https://github.com/runapi-ai/mcp) - MCP server for AI model jobs, including image, video, music/audio, and LLM tasks.
