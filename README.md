@@ -83,6 +83,7 @@
 - [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) - Free remote MCP for live web search and URL fetching (`web_search`, `web_fetch`), with no account or API key required.
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers) - Browser automation to interact with dynamic web pages.
 - [AISOTools MCP](https://aisotools.com/mcp) - Hosted MCP server to search, compare, and find alternatives across an AI tool catalog (21 categories). No API key required.
+- [CareJobs.Now MCP](https://github.com/yumaheymans/carejobs-mcp) - Free remote MCP server (no API key, read-only) to search 170,000+ open US healthcare jobs and posted pay by job kind, employer and state.
 
 ## Analytics & Marketing
 
