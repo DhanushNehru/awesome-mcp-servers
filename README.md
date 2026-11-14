@@ -83,6 +83,7 @@
 - [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) - Free remote MCP for live web search and URL fetching (`web_search`, `web_fetch`), with no account or API key required.
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers) - Browser automation to interact with dynamic web pages.
 - [AISOTools MCP](https://aisotools.com/mcp) - Hosted MCP server to search, compare, and find alternatives across an AI tool catalog (21 categories). No API key required.
+- [Tanod MCP](https://tanod.dev/mcp) - Hosted remote MCP with pay-per-call tools (x402 USDC on Base or Polygon, free daily allowance per IP) for web page to Markdown, screenshots, web search, PDF and image processing, and DNS and TLS lookups.
 
 ## Analytics & Marketing
 
