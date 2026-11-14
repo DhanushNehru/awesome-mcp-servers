@@ -83,6 +83,7 @@
 - [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) - Free remote MCP for live web search and URL fetching (`web_search`, `web_fetch`), with no account or API key required.
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers) - Browser automation to interact with dynamic web pages.
 - [AISOTools MCP](https://aisotools.com/mcp) - Hosted MCP server to search, compare, and find alternatives across an AI tool catalog (21 categories). No API key required.
+- [JobsPipe](https://jobspipe.dev) - Hosted MCP server for job search and matching across ATS sources. Streamable HTTP at `https://mcp.jobspipe.dev/mcp`. [Docs](https://docs.jobspipe.dev/ai-agents/mcp). Maintainer contact: dvir@jobspipe.dev.
 
 ## Analytics & Marketing
 
