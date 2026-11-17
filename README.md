@@ -54,6 +54,7 @@
 - [mcpindex](https://github.com/mcpindex-ai/mcpindex-web) - The agent-native index of MCP servers — discovery layer over the official MCP registry.
 - [UIZZE](https://uizze.com) - Codex-first hosted MCP for researching real web and iOS UI references, creating design contracts, and validating, auditing, and critiquing rendered interfaces.
 - [x402-cloudflare-starter](https://github.com/ANAMIZED/x402-cloudflare-starter) - Cloudflare Workers starter for USDC x402 micropayments on Base and Solana.
+- [ComputeFirst](https://github.com/321zz321/computefirst-skill) - Hosted remote MCP server (`https://computefirst.net/mcp`) with free, versioned, deterministic tools for CSV/JSON conversion and diffing, text processing, date arithmetic, exact decimal math, hashing and encodings; no API key needed. The link is the MIT-licensed setup kit; the server code itself is not public.
 
 ## AI Agents
 
