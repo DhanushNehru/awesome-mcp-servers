@@ -110,6 +110,7 @@
 - [ProposalCraft](https://github.com/jabbawocky/proposalcraft) - Drafts client proposals in your voice from your past winning work. Freelancers paste a client brief and get a ready-to-send proposal in seconds. Free tier, MIT licensed, no API key needed.
 - [Agentage Memory](https://memory.agentage.io) - Remote, hosted MCP server: one memory shared across every AI you use, mirrored as plain markdown you own. Streamable HTTP at `/mcp` with OAuth 2.1 + PKCE + DCR; tools: memory__search/read/write/edit/list/delete.
 - [Taskhold](https://taskhold.com/?ref=awesome-mcp-servers) - Hosted remote MCP server (OAuth, no API key) for a task list shared by you and your coding agents: they plan steps, report live progress and ask when they're stuck. Paid, 7-day trial.
+- [CallForMe](https://callforme.tel/?ref=awesome-mcp-servers) - Hosted remote MCP server (OAuth, connecting asks for nothing) that phones businesses for your agent: it works the menu, waits on hold, asks you mid-call and returns a transcript. Paid per call.
 
 ## Security & OSINT
 
