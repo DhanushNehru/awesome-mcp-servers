@@ -134,6 +134,7 @@
 
 ## Travel
 
+- [Google Flights MCP](https://github.com/johnisanerd/alphaosint-mcp-servers/tree/main/servers/google-flights) - Hosted MCP server that scrapes Google Flights for one-way, round-trip and multi-city itineraries and returns prices, airlines, stops and durations as JSON. Streamable HTTP at `https://mcp.apify.com/?tools=johnvc/Google-Flights-Data-Scraper-Flight-and-Price-Search`; needs an Apify account, billed per result.
 - [Ignav Flights](https://github.com/gusgordon/ignav-skill) - Hosted MCP server providing live flight prices, booking links, and airport lookup.
 - [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) - Remote MCP to search peer-to-peer luxury, exotic, and EV rentals from independent hosts. Booking finishes in the iOS app. Streamable HTTP at `https://pocketdrives.ai/mcp`.
 
