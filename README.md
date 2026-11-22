@@ -93,6 +93,7 @@
 ## E-commerce & Retail
 
 - [Packrift MCP](https://github.com/Packrift/packrift-mcp) - Packaging catalog search, pricing, inventory, and cart URLs.
+- [Nexscope](https://www.nexscope.ai/?co-from=dhanushnehru-awesome-mcp) - Hosted Streamable HTTP MCP for marketplace product research, competitor and keyword data, plus AI listing image and video tools. Endpoint `https://api.nexscope.ai/mcp`; registry `io.github.nexscope/ecommerce`. Requires an API key.
 
 ## Marketing & Advertising
 
