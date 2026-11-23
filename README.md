@@ -93,6 +93,7 @@
 ## E-commerce & Retail
 
 - [Packrift MCP](https://github.com/Packrift/packrift-mcp) - Packaging catalog search, pricing, inventory, and cart URLs.
+- [SoldFetch](https://github.com/ecom-crawl/soldfetch-mcp) - Hosted MCP server for eBay sold and active listings, categories, and item details; API key required. Not affiliated with eBay.
 
 ## Marketing & Advertising
 
