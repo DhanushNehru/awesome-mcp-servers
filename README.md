@@ -98,6 +98,8 @@
 
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data through the [Google Ads MCP](https://github.com/nowork-studio/NotFair/tree/main/google-ads), [Meta Ads MCP](https://github.com/nowork-studio/NotFair/tree/main/meta-ads), Google Search Console MCP, and Google Analytics (GA4) MCP. MIT licensed, ~2.9k stars.
 
+- [Poptin](https://github.com/Poptin-LTD/Poptin-MCP) - Official hosted MCP server to create email campaigns, build subscriber segments, and analyze email, popup, and form performance. Requires a Poptin account and OAuth sign-in.
+
 ## Productivity & Collaboration
 
 - [Slack MCP](https://github.com/modelcontextprotocol/servers) - Read messages and interact with Slack workspaces.
