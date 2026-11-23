@@ -54,6 +54,7 @@
 - [mcpindex](https://github.com/mcpindex-ai/mcpindex-web) - The agent-native index of MCP servers — discovery layer over the official MCP registry.
 - [UIZZE](https://uizze.com) - Codex-first hosted MCP for researching real web and iOS UI references, creating design contracts, and validating, auditing, and critiquing rendered interfaces.
 - [x402-cloudflare-starter](https://github.com/ANAMIZED/x402-cloudflare-starter) - Cloudflare Workers starter for USDC x402 micropayments on Base and Solana.
+- [Oh My Android](https://github.com/ateymoori/oh-my-android) - Free macOS app that controls the Android Emulator and real phones (dark mode, font scale, RTL, TalkBack, GPS, Layout Inspector in dp), with a built-in stdio MCP server (18 tools) so AI agents can see and drive the emulator.
 
 ## AI Agents
 
