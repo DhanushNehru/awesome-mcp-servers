@@ -83,6 +83,7 @@
 - [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) - Free remote MCP for live web search and URL fetching (`web_search`, `web_fetch`), with no account or API key required.
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers) - Browser automation to interact with dynamic web pages.
 - [AISOTools MCP](https://aisotools.com/mcp) - Hosted MCP server to search, compare, and find alternatives across an AI tool catalog (21 categories). No API key required.
+- [Nova Research (CIVAI)](https://github.com/civai-technologies/research-agent-mcp-by-nova-civai) - Hosted remote MCP (Streamable HTTP) for deep research and sourced report generation. Official, from the team that runs Nova; requires a Nova account.
 
 ## Analytics & Marketing
 
