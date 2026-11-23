@@ -93,6 +93,7 @@
 ## E-commerce & Retail
 
 - [Packrift MCP](https://github.com/Packrift/packrift-mcp) - Packaging catalog search, pricing, inventory, and cart URLs.
+- [Etsy Sales MCP](https://github.com/GeminiGeorge22/etsy-sales-mcp) - Etsy search results by keyword, marketplace and category plus daily sales counts and growth for any Etsy shop. Local stdio server: `npx -y github:GeminiGeorge22/etsy-sales-mcp` with your own `APIFY_TOKEN`.
 
 ## Marketing & Advertising
 
