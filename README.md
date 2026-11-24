@@ -157,6 +157,7 @@
 ## Creative & Media
 
 - [I2v.ai](https://github.com/i2v-ai/i2v-mcp) - Official remote and local MCP server for image generation and image-to-video or text-to-video across 12 image and 16 video models, with model discovery, parameter schemas and a USD quote before every paid task. Remote: `https://i2v.ai/api/mcp` (Streamable HTTP, OAuth 2.1). Local: `npx -y @i2v-ai/cli mcp` (stdio, `I2V_API_KEY`).
+- [Internet Radio](https://github.com/AlonDrilich/internet-radio-mcp) - Search 50,000+ internet radio stations from the public-domain Radio Browser directory and get direct stream URLs, plus top stations, countries and genres. Local stdio via `npx -y internet-radio-mcp`, no API key, MIT.
 - [MakeAIVideo](https://github.com/makeaivideo-ai/mcp) - Official MCP server for creating short-form AI videos (script, AI voiceover, AI or stock scenes, captions, music) and posting them to TikTok, Instagram or YouTube. Remote: `https://mcp.makeaivideo.ai` (Streamable HTTP, OAuth 2.1 or API key). Local: `npx -y @makeaivideo/mcp` (stdio, `MAKEAIVIDEO_API_KEY`).
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local TypeScript MCP server and CLI for composing, editing, analyzing, and rendering videos from coding agents.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server for routing image generation prompts across multiple models.
@@ -169,6 +170,7 @@
 
 - [Google Flights MCP](https://github.com/johnisanerd/alphaosint-mcp-servers/tree/main/servers/google-flights) - Hosted MCP server that scrapes Google Flights for one-way, round-trip and multi-city itineraries and returns prices, airlines, stops and durations as JSON. Streamable HTTP at `https://mcp.apify.com/?tools=johnvc/Google-Flights-Data-Scraper-Flight-and-Price-Search`; needs an Apify account, billed per result.
 - [Ignav Flights](https://github.com/gusgordon/ignav-skill) - Hosted MCP server providing live flight prices, booking links, and airport lookup.
+- [Latino Events](https://github.com/AlonDrilich/latino-events-mcp) - Hosted MCP server for upcoming concerts, festivals and cultural events across Latin America (events.lat): search by city, country, category and date, with venue, price and ticket page. Streamable HTTP at `https://ojlsoqhibryhvuyltwpi.supabase.co/functions/v1/mcp`, OAuth 2.1.
 - [MAQAMI Travel](https://github.com/negm17111995/mcp-server) - Official MCP server for MAQAMI, a hotel and flight booking platform with 3M+ hotels. Search live hotel rates and flights, look up cities, airports and hotel details, then send a secure checkout link on book.maqami.co. Remote Streamable HTTP endpoint, no API key required.
 - [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) - Remote MCP to search peer-to-peer luxury, exotic, and EV rentals from independent hosts. Booking finishes in the iOS app. Streamable HTTP at `https://pocketdrives.ai/mcp`.
 - [SkyAccess](https://github.com/sky-access/skyaccess-mcp) - Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. Streamable HTTP at `https://mcp.skyaccess.com/mcp`.
