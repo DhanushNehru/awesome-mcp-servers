@@ -81,6 +81,8 @@
 - [AgentServices MCP](https://github.com/vbkotecha/agentservices-api) — x402-paid crypto market data and intelligence APIs for AI agents.
 - [Live Tennis API MCP](https://github.com/livetennisapi/livetennisapi-mcp) — Live tennis match state (score, current server, three-valued break-point flag, retirement/walkover/completed) plus players, rankings, Elo, and fixtures. Read-only data feed; free tier, no card, on the official MCP Registry.
 
+- [RowSafe](https://github.com/rowsafe/rowsafe) - Database health, backup and recovery workflows, and managed database provisioning via local or remote MCP. The agent, CLI and MCP server are Apache-2.0, with a separate hosted service.
+
 ## Web & Search
 
 - [Brave Search MCP](https://github.com/modelcontextprotocol/servers) - Official integration for web search via Brave.
