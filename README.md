@@ -59,6 +59,8 @@
 - [x402-cloudflare-starter](https://github.com/ANAMIZED/x402-cloudflare-starter) - Cloudflare Workers starter for USDC x402 micropayments on Base and Solana.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run beneath the harness and replays it offline from the recorded bytes with no model called; the MCP server serves the trace store over stdio so an agent can list, read, diff and replay its own runs. Install with `npm install --global orcareplay`, then `orca mcp`.
 
+- [Lantern Works](https://github.com/connormatthewdouglas/agent-work-stack-deals) - Read-only, keyless MCP for GPU rental price comparison across tracked providers, with cited rates and each price's age. Install: `uvx lantern-works-deals-mcp`. Docs: https://thelanternworks.com/for-agents/?ref=gh-dhanushmcp
+
 ## AI Agents
 
 - [Aident Loadout](https://github.com/Aident-AI/aident-skill) - Remote MCP connecting AI agents to 1,000+ apps and 400+ skills with Vault-protected credentials, one balance, and full audit.
