@@ -54,6 +54,7 @@
 - [mcpindex](https://github.com/mcpindex-ai/mcpindex-web) - The agent-native index of MCP servers — discovery layer over the official MCP registry.
 - [UIZZE](https://uizze.com) - Codex-first hosted MCP for researching real web and iOS UI references, creating design contracts, and validating, auditing, and critiquing rendered interfaces.
 - [x402-cloudflare-starter](https://github.com/ANAMIZED/x402-cloudflare-starter) - Cloudflare Workers starter for USDC x402 micropayments on Base and Solana.
+- [CloudGPU MCP](https://github.com/mrhy7176/cloudgpu-mcp) - Lets an MCP client list GPUs, get a quote, start an instance after user confirmation, run commands, move files and stop it.
 
 ## AI Agents
 
