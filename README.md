@@ -96,6 +96,7 @@
 
 ## Analytics & Marketing
 
+- [AgentSEO](https://www.agentseo.dev/seo-mcp-server) - Hosted SEO MCP server for keyword research, SERP analysis, rank tracking, site audits and AI search visibility for answer engine optimization (AEO). Live requests require an API key and usage credits.
 - [Formo](https://formo.so) - Official hosted MCP server for read-only product and onchain analytics, including KPIs, SQL, funnels, retention, revenue, and wallet profiles. [Docs](https://docs.formo.so/mcp/overview).
 - [LLM Pulse](https://github.com/LLM-Pulse/llmpulse-mcp) - AI search visibility analytics over MCP for brand mentions, citations, sentiment, share of voice, tracked prompts, recommendations, and AI-referred traffic.
 - [GSCmate](https://gscmate.com) - Hosted, read-only Google Search Console MCP server for search analytics, properties, sitemaps, and URL inspection. Uses Google OAuth 2.1; plans start at USD 19 per month.
