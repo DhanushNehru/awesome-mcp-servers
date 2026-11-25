@@ -85,6 +85,7 @@
 - [Live Tennis API MCP](https://github.com/livetennisapi/livetennisapi-mcp) — Live tennis match state (score, current server, three-valued break-point flag, retirement/walkover/completed) plus players, rankings, Elo, and fixtures. Read-only data feed; free tier, no card, on the official MCP Registry.
 
 - [RowSafe](https://github.com/rowsafe/rowsafe) - Database health, backup and recovery workflows, and managed database provisioning via local or remote MCP. The agent, CLI and MCP server are Apache-2.0, with a separate hosted service.
+- [Clema](https://github.com/wilsonbright/clema-mcp) - Official hosted MCP server for higher-ed institutional research teams: work the IR data request queue and run read-only SQL on the public IPEDS and College Scorecard datasets. Streamable HTTP at `https://mcp.clema.ai/mcp` with OAuth 2.1 browser sign-in, no API key. Requires a paid Clema plan (free trial). Official registry `ai.clema/mcp`. [Docs](https://clema.ai/docs/mcp).
 
 ## Web & Search
 
