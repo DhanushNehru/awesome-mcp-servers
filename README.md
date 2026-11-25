@@ -22,6 +22,7 @@
 - [Marketing & Advertising](#marketing--advertising)
 - [Productivity & Collaboration](#productivity--collaboration)
 - [Security & OSINT](#security--osint)
+- [Sports Data](#sports-data)
 - [Creative & Media](#creative--media)
 - [Travel](#travel)
 - [Clients & Integration](#clients--integration)
@@ -125,6 +126,10 @@
 - [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data and automation MCP server for tweet search, user lookup, follower export, media download, monitors, webhooks, and confirmation-gated write actions.
 - [mcp-guard](https://github.com/SaravanaGuhan/mcp-guard) - Comprehensive security scanner for Model Context Protocol (MCP) servers.
 - [agentcheck](https://github.com/DhanushNehru/agentcheck) - Zero-dep CLI + GitHub Action that scans MCP configs and AI-agent instruction files (CLAUDE.md, AGENTS.md, .cursor/rules) for hidden prompt injection: invisible unicode decoded in the report, exfil commands, poisoned tool configs.
+
+## Sports Data
+
+- [ParlayAPI](https://github.com/JacobiusMakes/parlay-api-mcp) - Python stdio server for sports odds, player props, public event discovery, and account usage; account data tools require each user's own API key and allowances.
 
 ## Creative & Media
 
