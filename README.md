@@ -90,6 +90,7 @@
 
 - [Brave Search MCP](https://github.com/modelcontextprotocol/servers) - Official integration for web search via Brave.
 - [Worklittle Jobs](https://github.com/worklittle/jobs-mcp) - Swipe to apply for jobs in your AI app, and search over 4 million jobs with filters like visa status, distance, and salary, and connect your Worklittle account to save jobs you love. Remote Streamable HTTP at `https://mcp.worklittle.com/`. Official registry `io.github.worklittle/jobs`.
+- [Google Jobs MCP](https://github.com/johnisanerd/alphaosint-mcp-servers/tree/main/servers/google-jobs) - Hosted MCP server that searches Google Jobs by keyword and location in 83 countries and returns titles, companies, locations, posting age, highlights, apply links and full descriptions as JSON. Streamable HTTP at `https://mcp.apify.com/?tools=johnvc/Google-Jobs-Scraper`; needs an Apify account, billed per results page.
 - Exa Search MCP - AI-focused web search integration.
 - Firecrawl MCP - Scrape and crawl websites into LLM-ready markdown.
 - [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) - Free remote MCP for live web search and URL fetching (`web_search`, `web_fetch`), with no account or API key required.
