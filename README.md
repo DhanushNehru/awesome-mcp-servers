@@ -155,6 +155,7 @@
 ## Creative & Media
 
 - [I2v.ai](https://github.com/i2v-ai/i2v-mcp) - Official remote and local MCP server for image generation and image-to-video or text-to-video across 12 image and 16 video models, with model discovery, parameter schemas and a USD quote before every paid task. Remote: `https://i2v.ai/api/mcp` (Streamable HTTP, OAuth 2.1). Local: `npx -y @i2v-ai/cli mcp` (stdio, `I2V_API_KEY`).
+- [MakeAIVideo](https://github.com/makeaivideo-ai/mcp) - Official MCP server for creating short-form AI videos (script, AI voiceover, AI or stock scenes, captions, music) and posting them to TikTok, Instagram or YouTube. Remote: `https://mcp.makeaivideo.ai` (Streamable HTTP, OAuth 2.1 or API key). Local: `npx -y @makeaivideo/mcp` (stdio, `MAKEAIVIDEO_API_KEY`).
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local TypeScript MCP server and CLI for composing, editing, analyzing, and rendering videos from coding agents.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server for routing image generation prompts across multiple models.
 - [RunAPI](https://github.com/runapi-ai/mcp) - MCP server for AI model jobs, including image, video, music/audio, and LLM tasks.
