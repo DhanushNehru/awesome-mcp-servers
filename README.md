@@ -93,6 +93,8 @@
 - [Autoposting](https://github.com/Autoposting-ai/autoposting-mcp) - Hosted MCP server for social media publishing. Drafts and rewrites posts, generates ideas with AI agents, builds carousels, clips and renders video, searches a knowledge base, and schedules or publishes to X, LinkedIn, Instagram, Threads and YouTube. Streamable HTTP at `https://app.autoposting.ai/mcp` with OAuth 2.1 + DCR; nothing to install locally.
 - [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) - API and MCP server for AI-agent social media planning, adaptation, review, scheduling, publishing, media, and analytics. [Documentation](https://app.bulkpublish.com/docs)
 
+- [Unfetch](https://unfetch.com) - Hosted Google Ads MCP server with Google Analytics and Google Search Console reporting, keyword research, and web research; analyze campaign spend, conversions, search terms, and landing pages with read-only account access and OAuth.
+
 ## E-commerce & Retail
 
 - [Packrift MCP](https://github.com/Packrift/packrift-mcp) - Packaging catalog search, pricing, inventory, and cart URLs.
