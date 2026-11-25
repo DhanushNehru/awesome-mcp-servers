@@ -105,6 +105,7 @@
 
 ## E-commerce & Retail
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 - [Packrift MCP](https://github.com/Packrift/packrift-mcp) - Packaging catalog search, pricing, inventory, and cart URLs.
 - [Zovo Invoice Generator](https://github.com/theluckystrike/mcp-invoice-generator) - Invoice creation, line items, totals, and PDF-ready billing documents over MCP.
 
