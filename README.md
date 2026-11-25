@@ -57,6 +57,7 @@
 
 ## AI Agents
 
+- [Anansi Haven](https://anansi-haven.anansidata.workers.dev) - Hosted remote MCP (Streamable HTTP) for trading agents: 89 tools, free rule-based `trade_postmortem` / `council_grade` (no AI model calls), persistent agent memory/rooms, optional Base x402 `$0.02` USDC paid twin. Official Registry `io.github.kburrus64-max/anansi-haven`.
 - [LRSI](https://github.com/ANAMIZED/LRSI) - Local recursive self-improvement OS MCP with a closed-loop runtime core.
 - [NeedRail](https://github.com/ANAMIZED/NeedRail) - Needs registry MCP with x402 payments for public-goods coordination.
 - [OpenGOS](https://github.com/ANAMIZED/OpenGOS) - MCP server for grants discovery, matching, drafting, and lifecycle management.
