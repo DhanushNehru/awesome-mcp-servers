@@ -54,6 +54,8 @@
 - [mcpindex](https://github.com/mcpindex-ai/mcpindex-web) - The agent-native index of MCP servers — discovery layer over the official MCP registry.
 - [UIZZE](https://uizze.com) - Codex-first hosted MCP for researching real web and iOS UI references, creating design contracts, and validating, auditing, and critiquing rendered interfaces.
 - [x402-cloudflare-starter](https://github.com/ANAMIZED/x402-cloudflare-starter) - Cloudflare Workers starter for USDC x402 micropayments on Base and Solana.
+- [MCP Probe Kit](https://github.com/mybolide/mcp-probe-kit) - End-to-end self-test toolkit for MCP servers: probes every tool, resource and prompt, then reports health, latency and schema drift.
+- [Coding Tools MCP](https://github.com/mybolide/coding-tools-mcp) - Desktop MCP server for coding agents — project scaffolding, code search, dependency and build insight behind one local stdio interface.
 
 ## AI Agents
 
