@@ -157,6 +157,7 @@
 - [Ignav Flights](https://github.com/gusgordon/ignav-skill) - Hosted MCP server providing live flight prices, booking links, and airport lookup.
 - [MAQAMI Travel](https://github.com/negm17111995/mcp-server) - Official MCP server for MAQAMI, a hotel and flight booking platform with 3M+ hotels. Search live hotel rates and flights, look up cities, airports and hotel details, then send a secure checkout link on book.maqami.co. Remote Streamable HTTP endpoint, no API key required.
 - [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) - Remote MCP to search peer-to-peer luxury, exotic, and EV rentals from independent hosts. Booking finishes in the iOS app. Streamable HTTP at `https://pocketdrives.ai/mcp`.
+- [SkyAccess](https://github.com/sky-access/skyaccess-mcp) - Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. Streamable HTTP at `https://mcp.skyaccess.com/mcp`.
 
 ## Clients & Integration
 
