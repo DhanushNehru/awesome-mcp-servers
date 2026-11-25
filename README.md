@@ -97,6 +97,7 @@
 ## Marketing & Advertising
 
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data through the [Google Ads MCP](https://github.com/nowork-studio/NotFair/tree/main/google-ads), [Meta Ads MCP](https://github.com/nowork-studio/NotFair/tree/main/meta-ads), Google Search Console MCP, and Google Analytics (GA4) MCP. MIT licensed, ~2.9k stars.
+- [Clickwise](<https://partners.clickwise.net/developers/>) - Affiliate programs, deals and tracked links, plus product search by text or GTIN.
 
 ## Productivity & Collaboration
 
