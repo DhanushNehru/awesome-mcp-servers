@@ -93,6 +93,7 @@
 ## E-commerce & Retail
 
 - [Packrift MCP](https://github.com/Packrift/packrift-mcp) - Packaging catalog search, pricing, inventory, and cart URLs.
+- [PlushSource MCP](https://github.com/quickman924/plushsource-mcp) - Local stdio server for the PlushSource directory of custom plush manufacturers: search and compare published MOQ, lead times, OEM/ODM and certifications. Facts are recorded as stated by the manufacturers; a listing is not an endorsement. No API key. Install: `npx -y plushsource-mcp`.
 
 ## Marketing & Advertising
 
