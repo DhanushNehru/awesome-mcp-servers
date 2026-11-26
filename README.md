@@ -136,6 +136,7 @@
 - [Agentage Memory](https://memory.agentage.io) - Remote, hosted MCP server: one memory shared across every AI you use, mirrored as plain markdown you own. Streamable HTTP at `/mcp` with OAuth 2.1 + PKCE + DCR; tools: memory__search/read/write/edit/list/delete.
 - [Taskhold](https://taskhold.com/?ref=awesome-mcp-servers) - Hosted remote MCP server (OAuth, no API key) for a task list shared by you and your coding agents: they plan steps, report live progress and ask when they're stuck. Paid, 7-day trial.
 - [Enhanciar](https://enhanciar.in/mcp) - Hosted remote MCP server (Streamable HTTP, API key) for a company brain: answers questions from your Slack, Gmail, Drive, Notion, Jira, Linear and GitHub with a source link on every answer. Paid plans.
+- [Frank AI Researcher](https://github.com/nar-vardanyan/frank-mcp) - Frank is an AI user researcher that runs short voice interviews. Official hosted Streamable HTTP server at `https://api.hifrank.ai/mcp` with OAuth 2.1 and PKCE (registry `ai.hifrank/frank`). Works with ChatGPT, Claude, Grok and Muse, plus other MCP clients that support remote servers with OAuth. Free plan: 60 voice minutes a month, no card required.
 
 ## Security & OSINT
 
