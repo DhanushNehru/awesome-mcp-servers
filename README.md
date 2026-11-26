@@ -164,6 +164,7 @@
 - [VideoGen](https://github.com/video-gen/videogen-mcp) - Official [VideoGen MCP server](https://videogen.io/videogen-mcp) for creating and editing videos, images, voiceovers, music, and avatars through local stdio or hosted HTTP with OAuth/API keys.
 - [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) - Renders 4-6s animated b-roll overlay videos (mp4) for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok) and landscape YouTube. Paste your script into Claude Code / Cursor / Codex; the MCP server writes the scene spec and renders the mp4. Built on Remotion + Tabler + Lottie. Free, MIT, local.
 - [VidWords](https://github.com/haljishi/vidwords-mcp) - Remote MCP server for YouTube video: searches transcripts across a whole channel, reads captions, and analyzes a video's frames, returning answers with citable timestamps. Streamable HTTP with OAuth 2.1.
+- [MuAPI MCP Server](https://github.com/SamurAIGPT/muapi-mcp-server) - Official hosted and self-hosted MCP server for image, video, audio, and editing models.
 
 ## Travel
 
