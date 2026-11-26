@@ -107,6 +107,7 @@
 - [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) - API and MCP server for AI-agent social media planning, adaptation, review, scheduling, publishing, media, and analytics. [Documentation](https://app.bulkpublish.com/docs)
 
 - [Unfetch](https://unfetch.com) - Hosted Google Ads MCP server with Google Analytics and Google Search Console reporting, keyword research, and web research; analyze campaign spend, conversions, search terms, and landing pages with read-only account access and OAuth.
+- [Vaneform](https://github.com/vaneform/vaneform-mcp) - Official hosted Streamable HTTP MCP server for free website traffic lookups (monthly visits, traffic sources, countries, domain comparisons). [Docs](https://vaneform.com/docs/api).
 
 ## E-commerce & Retail
 
