@@ -123,6 +123,8 @@
 
 ## Productivity & Collaboration
 
+- [Dash](https://github.com/dash-pup/dash-mcp) - Hosted Streamable HTTP server connecting AI clients to Dash workspace tools, skills, scheduled tasks, goals, and connected apps. Supports OAuth sign-in or API keys; requires a paid Dash workspace.
+
 - [Orbit by Noveum](https://orbit.noveum.ai/mcp) - Hosted Streamable HTTP server for issues, projects, sprints, docs and files with workspace-scoped OAuth.
 - [Slack MCP](https://github.com/modelcontextprotocol/servers) - Read messages and interact with Slack workspaces.
 - [Google Drive MCP](https://github.com/modelcontextprotocol/servers) - Access and read files securely.
