@@ -120,6 +120,7 @@
 - [LogNorm](https://lognorm.com) - Hosted MCP server that hands your SEO/GEO growth backlog (site audits, fixes, content, AI-visibility tracking) to Claude Code, Codex and Cursor. Streamable HTTP at `https://lognorm.com/api/mcp` with OAuth 2.1, no API keys; [docs](https://lognorm.com/docs/agents).
 
 - [Poptin](https://github.com/Poptin-LTD/Poptin-MCP) - Official hosted MCP server to create email campaigns, build subscriber segments, and analyze email, popup, and form performance. Requires a Poptin account and OAuth sign-in.
+- [Get MCP Ads](https://www.getmcpads.com) - Hosted MCP server that connects Claude, ChatGPT and other AI clients to 16 ad and analytics sources, including Meta, Google Ads, TikTok, GA4 and Search Console. Every write is previewed and confirmed, and the Free plan is read only. Streamable HTTP at `https://mcp.getmcpads.com/mcp` with OAuth 2.1; open-source per-platform servers (Apache-2.0) at [get-mcp-ads](https://github.com/get-mcp-ads).
 
 ## Productivity & Collaboration
 
