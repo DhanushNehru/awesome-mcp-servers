@@ -22,6 +22,7 @@
 - [Marketing & Advertising](#marketing--advertising)
 - [Productivity & Collaboration](#productivity--collaboration)
 - [Security & OSINT](#security--osint)
+- [Sports Data](#sports-data)
 - [Creative & Media](#creative--media)
 - [Travel](#travel)
 - [Clients & Integration](#clients--integration)
@@ -37,11 +38,13 @@
 
 ## Development & DevOps
 
+- [agent-qa](https://github.com/vostride/agent-qa) - Local MCP server for natural-language web and mobile testing with advanced memidex memory and self-improvement.
 - [GitHub MCP Server](https://github.com/modelcontextprotocol/servers) - Official reference server for interacting with GitHub (Issues, PRs, Repos, Code Search).
 - [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - Local-first agent OS exposing MCP tools for portable agent and team packages across supported coding hosts.
 - [MartinLoop MCP](https://github.com/Keesan12/martin-loop/tree/main/packages/mcp) - Governed MCP runtime for AI coding agents with budget caps, verifier gates, and inspectable runs.
 <!-- - [Tuning Engines](https://github.com/cerebrixos-org/tuning-engines-cli) - Govern model, agent, skill, and MCP workflows with policy controls, approvals, traces, and usage analytics. Install with `npx -y --package tuningengines-cli@latest te mcp serve`. -->
 - [ax](https://github.com/Necmttn/ax) - Local-first MCP server and CLI for querying AI coding-agent sessions, skills, tool use, costs, and workflow telemetry from a SurrealDB graph.
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - Self-hosted MCP bridge for agent sessions, sandboxed turns, artifacts, audit, and replay.
 - GitLab MCP Server - *(Coming Soon / Community Implementation)*
 - Docker MCP Server - Interact with Docker daemon (containers, images, logs) via Claude.
 - [Kubernetes MCP](https://github.com/containers/kubernetes-mcp-server) - Connect your cluster to Claude for natural language debugging.
@@ -54,9 +57,13 @@
 - [mcpindex](https://github.com/mcpindex-ai/mcpindex-web) - The agent-native index of MCP servers — discovery layer over the official MCP registry.
 - [UIZZE](https://uizze.com) - Codex-first hosted MCP for researching real web and iOS UI references, creating design contracts, and validating, auditing, and critiquing rendered interfaces.
 - [x402-cloudflare-starter](https://github.com/ANAMIZED/x402-cloudflare-starter) - Cloudflare Workers starter for USDC x402 micropayments on Base and Solana.
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run beneath the harness and replays it offline from the recorded bytes with no model called; the MCP server serves the trace store over stdio so an agent can list, read, diff and replay its own runs. Install with `npm install --global orcareplay`, then `orca mcp`.
+
+- [Lantern Works](https://github.com/connormatthewdouglas/agent-work-stack-deals) - Read-only, keyless MCP for GPU rental price comparison across tracked providers, with cited rates and each price's age. Install: `uvx lantern-works-deals-mcp`. Docs: https://thelanternworks.com/for-agents/?ref=gh-dhanushmcp
 
 ## AI Agents
 
+- [Aident Loadout](https://github.com/Aident-AI/aident-skill) - Remote MCP connecting AI agents to 1,000+ apps and 400+ skills with Vault-protected credentials, one balance, and full audit.
 - [LRSI](https://github.com/ANAMIZED/LRSI) - Local recursive self-improvement OS MCP with a closed-loop runtime core.
 - [NeedRail](https://github.com/ANAMIZED/NeedRail) - Needs registry MCP with x402 payments for public-goods coordination.
 - [OpenGOS](https://github.com/ANAMIZED/OpenGOS) - MCP server for grants discovery, matching, drafting, and lifecycle management.
@@ -72,45 +79,64 @@
 - Redis MCP - Interact with Redis caches.
 - DuckDB MCP - Analytical queries on massive local files.
 - [Neo4j MCP](https://github.com/neo4j/mcp) - Query and visualize graph data with Cypher.
+- [Datacircle](https://datacircle.dev) - Find the best GTM APIs. Our MCP server is open to anyone, with no key: https://api.datacircle.dev/mcp
 <!-- - [Helium MCP](https://github.com/substreambc/helium-mcp) — Open (MIT) x402-metered MCP for the SNTL Helium × Solana DePIN intelligence datalake — pay-per-call in USDC on Solana. First tier free. -->
 - [AgentServices MCP](https://github.com/vbkotecha/agentservices-api) — x402-paid crypto market data and intelligence APIs for AI agents.
+- [Live Tennis API MCP](https://github.com/livetennisapi/livetennisapi-mcp) — Live tennis match state (score, current server, three-valued break-point flag, retirement/walkover/completed) plus players, rankings, Elo, and fixtures. Read-only data feed; free tier, no card, on the official MCP Registry.
+
+- [RowSafe](https://github.com/rowsafe/rowsafe) - Database health, backup and recovery workflows, and managed database provisioning via local or remote MCP. The agent, CLI and MCP server are Apache-2.0, with a separate hosted service.
 
 ## Web & Search
 
 - [Brave Search MCP](https://github.com/modelcontextprotocol/servers) - Official integration for web search via Brave.
+- [Worklittle Jobs](https://github.com/worklittle/jobs-mcp) - Swipe to apply for jobs in your AI app, and search over 4 million jobs with filters like visa status, distance, and salary, and connect your Worklittle account to save jobs you love. Remote Streamable HTTP at `https://mcp.worklittle.com/`. Official registry `io.github.worklittle/jobs`.
 - Exa Search MCP - AI-focused web search integration.
 - Firecrawl MCP - Scrape and crawl websites into LLM-ready markdown.
 - [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) - Free remote MCP for live web search and URL fetching (`web_search`, `web_fetch`), with no account or API key required.
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers) - Browser automation to interact with dynamic web pages.
 - [AISOTools MCP](https://aisotools.com/mcp) - Hosted MCP server to search, compare, and find alternatives across an AI tool catalog (21 categories). No API key required.
+- [Tanod MCP](https://tanod.dev/mcp) - Hosted remote MCP with pay-per-call tools (x402 USDC on Base or Polygon, free daily allowance per IP) for web page to Markdown, screenshots, web search, PDF and image processing, and DNS and TLS lookups.
 
 ## Analytics & Marketing
 
+- [AgentSEO](https://www.agentseo.dev/seo-mcp-server) - Hosted SEO MCP server for keyword research, SERP analysis, rank tracking, site audits and AI search visibility for answer engine optimization (AEO). Live requests require an API key and usage credits.
 - [Formo](https://formo.so) - Official hosted MCP server for read-only product and onchain analytics, including KPIs, SQL, funnels, retention, revenue, and wallet profiles. [Docs](https://docs.formo.so/mcp/overview).
 - [LLM Pulse](https://github.com/LLM-Pulse/llmpulse-mcp) - AI search visibility analytics over MCP for brand mentions, citations, sentiment, share of voice, tracked prompts, recommendations, and AI-referred traffic.
+- [GSCmate](https://gscmate.com) - Hosted, read-only Google Search Console MCP server for search analytics, properties, sitemaps, and URL inspection. Uses Google OAuth 2.1; plans start at USD 19 per month.
 - [Autoposting](https://github.com/Autoposting-ai/autoposting-mcp) - Hosted MCP server for social media publishing. Drafts and rewrites posts, generates ideas with AI agents, builds carousels, clips and renders video, searches a knowledge base, and schedules or publishes to X, LinkedIn, Instagram, Threads and YouTube. Streamable HTTP at `https://app.autoposting.ai/mcp` with OAuth 2.1 + DCR; nothing to install locally.
+- [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) - API and MCP server for AI-agent social media planning, adaptation, review, scheduling, publishing, media, and analytics. [Documentation](https://app.bulkpublish.com/docs)
+
+- [Unfetch](https://unfetch.com) - Hosted Google Ads MCP server with Google Analytics and Google Search Console reporting, keyword research, and web research; analyze campaign spend, conversions, search terms, and landing pages with read-only account access and OAuth.
 
 ## E-commerce & Retail
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 - [Packrift MCP](https://github.com/Packrift/packrift-mcp) - Packaging catalog search, pricing, inventory, and cart URLs.
+- [Zovo Invoice Generator](https://github.com/theluckystrike/mcp-invoice-generator) - Invoice creation, line items, totals, and PDF-ready billing documents over MCP.
 
 ## Marketing & Advertising
 
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data through the [Google Ads MCP](https://github.com/nowork-studio/NotFair/tree/main/google-ads), [Meta Ads MCP](https://github.com/nowork-studio/NotFair/tree/main/meta-ads), Google Search Console MCP, and Google Analytics (GA4) MCP. MIT licensed, ~2.9k stars.
+- [LogNorm](https://lognorm.com) - Hosted MCP server that hands your SEO/GEO growth backlog (site audits, fixes, content, AI-visibility tracking) to Claude Code, Codex and Cursor. Streamable HTTP at `https://lognorm.com/api/mcp` with OAuth 2.1, no API keys; [docs](https://lognorm.com/docs/agents).
+
+- [Poptin](https://github.com/Poptin-LTD/Poptin-MCP) - Official hosted MCP server to create email campaigns, build subscriber segments, and analyze email, popup, and form performance. Requires a Poptin account and OAuth sign-in.
 
 ## Productivity & Collaboration
 
+- [Orbit by Noveum](https://orbit.noveum.ai/mcp) - Hosted Streamable HTTP server for issues, projects, sprints, docs and files with workspace-scoped OAuth.
 - [Slack MCP](https://github.com/modelcontextprotocol/servers) - Read messages and interact with Slack workspaces.
 - [Google Drive MCP](https://github.com/modelcontextprotocol/servers) - Access and read files securely.
 - Notion MCP - Query Notion databases and pages.
 - [Wenlan MCP](https://github.com/7xuanlu/wenlan) - Local-first AI knowledge base and LLM wiki with source-cited pages, session handoffs, and hybrid retrieval across MCP clients.
 - [AccInt](https://github.com/maxbaluev/accreted-intelligence) - Local-first MCP memory substrate for coding agents with scored retrieval, commitments, and reality-gated outcomes.
+- [ContextStream](https://github.com/contextstream/mcp-server) - Shared project context for AI coding agents — hosted MCP with code search, decisions, lessons, and plans.
 - Linear MCP - Manage tasks and issues in Linear.
 - [Process Street](https://github.com/process-street/process-street-mcp) - Hosted Streamable HTTP server for working with Process Street workflows, runs, tasks, users, data sets, and operational records.
 - [ProposalCraft](https://github.com/jabbawocky/proposalcraft) - Drafts client proposals in your voice from your past winning work. Freelancers paste a client brief and get a ready-to-send proposal in seconds. Free tier, MIT licensed, no API key needed.
 - [Agentage Memory](https://memory.agentage.io) - Remote, hosted MCP server: one memory shared across every AI you use, mirrored as plain markdown you own. Streamable HTTP at `/mcp` with OAuth 2.1 + PKCE + DCR; tools: memory__search/read/write/edit/list/delete.
 - [Taskhold](https://taskhold.com/?ref=awesome-mcp-servers) - Hosted remote MCP server (OAuth, no API key) for a task list shared by you and your coding agents: they plan steps, report live progress and ask when they're stuck. Paid, 7-day trial.
-- [CallForMe](https://callforme.tel/?ref=awesome-mcp-servers) - Hosted remote MCP server (OAuth, connecting asks for nothing) that phones businesses for your agent: it works the menu, waits on hold, asks you mid-call and returns a transcript. Paid per call.
+- [CallForMe](https://callforme.tel/) - Hosted remote MCP server (OAuth, connecting asks for nothing) that phones businesses for your agent: it works the menu, waits on hold, asks you mid-call and returns a transcript. Paid per call.
+- [Enhanciar](https://enhanciar.in/mcp) - Hosted remote MCP server (Streamable HTTP, API key) for a company brain: answers questions from your Slack, Gmail, Drive, Notion, Jira, Linear and GitHub with a source link on every answer. Paid plans.
 
 ## Security & OSINT
 
@@ -120,23 +146,33 @@
 - Shodan MCP - Query Shodan for connected devices.
 - Dependency Scanner MCP - Scan lockfiles (package.json, etc.) for vulnerabilities.
 - [DomScan MCP](https://github.com/estevecastells/domscan-mcp) - Domain intelligence: availability, DNS, WHOIS/RDAP, SSL, subdomains, valuation, email security and typosquatting/brand protection.
-- [EnigmAgent MCP](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs.
+<!-- - [EnigmAgent MCP](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs. -->
 - [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data and automation MCP server for tweet search, user lookup, follower export, media download, monitors, webhooks, and confirmation-gated write actions.
 - [mcp-guard](https://github.com/SaravanaGuhan/mcp-guard) - Comprehensive security scanner for Model Context Protocol (MCP) servers.
 - [agentcheck](https://github.com/DhanushNehru/agentcheck) - Zero-dep CLI + GitHub Action that scans MCP configs and AI-agent instruction files (CLAUDE.md, AGENTS.md, .cursor/rules) for hidden prompt injection: invisible unicode decoded in the report, exfil commands, poisoned tool configs.
 
+## Sports Data
+
+- [ParlayAPI](https://github.com/JacobiusMakes/parlay-api-mcp) - Python stdio server for sports odds, player props, public event discovery, and account usage; account data tools require each user's own API key and allowances.
+
 ## Creative & Media
 
 - [I2v.ai](https://github.com/i2v-ai/i2v-mcp) - Official remote and local MCP server for image generation and image-to-video or text-to-video across 12 image and 16 video models, with model discovery, parameter schemas and a USD quote before every paid task. Remote: `https://i2v.ai/api/mcp` (Streamable HTTP, OAuth 2.1). Local: `npx -y @i2v-ai/cli mcp` (stdio, `I2V_API_KEY`).
+- [MakeAIVideo](https://github.com/makeaivideo-ai/mcp) - Official MCP server for creating short-form AI videos (script, AI voiceover, AI or stock scenes, captions, music) and posting them to TikTok, Instagram or YouTube. Remote: `https://mcp.makeaivideo.ai` (Streamable HTTP, OAuth 2.1 or API key). Local: `npx -y @makeaivideo/mcp` (stdio, `MAKEAIVIDEO_API_KEY`).
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local TypeScript MCP server and CLI for composing, editing, analyzing, and rendering videos from coding agents.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server for routing image generation prompts across multiple models.
 - [RunAPI](https://github.com/runapi-ai/mcp) - MCP server for AI model jobs, including image, video, music/audio, and LLM tasks.
+- [VideoGen](https://github.com/video-gen/videogen-mcp) - Official [VideoGen MCP server](https://videogen.io/videogen-mcp) for creating and editing videos, images, voiceovers, music, and avatars through local stdio or hosted HTTP with OAuth/API keys.
 - [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) - Renders 4-6s animated b-roll overlay videos (mp4) for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok) and landscape YouTube. Paste your script into Claude Code / Cursor / Codex; the MCP server writes the scene spec and renders the mp4. Built on Remotion + Tabler + Lottie. Free, MIT, local.
+- [VidWords](https://github.com/haljishi/vidwords-mcp) - Remote MCP server for YouTube video: searches transcripts across a whole channel, reads captions, and analyzes a video's frames, returning answers with citable timestamps. Streamable HTTP with OAuth 2.1.
 
 ## Travel
 
+- [Google Flights MCP](https://github.com/johnisanerd/alphaosint-mcp-servers/tree/main/servers/google-flights) - Hosted MCP server that scrapes Google Flights for one-way, round-trip and multi-city itineraries and returns prices, airlines, stops and durations as JSON. Streamable HTTP at `https://mcp.apify.com/?tools=johnvc/Google-Flights-Data-Scraper-Flight-and-Price-Search`; needs an Apify account, billed per result.
 - [Ignav Flights](https://github.com/gusgordon/ignav-skill) - Hosted MCP server providing live flight prices, booking links, and airport lookup.
+- [MAQAMI Travel](https://github.com/negm17111995/mcp-server) - Official MCP server for MAQAMI, a hotel and flight booking platform with 3M+ hotels. Search live hotel rates and flights, look up cities, airports and hotel details, then send a secure checkout link on book.maqami.co. Remote Streamable HTTP endpoint, no API key required.
 - [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) - Remote MCP to search peer-to-peer luxury, exotic, and EV rentals from independent hosts. Booking finishes in the iOS app. Streamable HTTP at `https://pocketdrives.ai/mcp`.
+- [SkyAccess](https://github.com/sky-access/skyaccess-mcp) - Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. Streamable HTTP at `https://mcp.skyaccess.com/mcp`.
 
 ## Clients & Integration
 
@@ -149,6 +185,7 @@ Tools and applications that support the Model Context Protocol:
 ## Resources & Guides
 
 - [Introducing the Model Context Protocol (Anthropic Blog)](https://www.anthropic.com/news/model-context-protocol)
+- [SolidCraft CAD MCP setup](https://solidcraftcad.com/solidcraft-mcp) - Guide to connecting AI agents to SolidCraft open-source CAD via its built-in MCP server.
 - How to Build Your First MCP Server - Community guide.
 - MCP in Action: Use Cases
 
