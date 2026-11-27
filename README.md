@@ -85,6 +85,7 @@
 - [Live Tennis API MCP](https://github.com/livetennisapi/livetennisapi-mcp) — Live tennis match state (score, current server, three-valued break-point flag, retirement/walkover/completed) plus players, rankings, Elo, and fixtures. Read-only data feed; free tier, no card, on the official MCP Registry.
 
 - [RowSafe](https://github.com/rowsafe/rowsafe) - Database health, backup and recovery workflows, and managed database provisioning via local or remote MCP. The agent, CLI and MCP server are Apache-2.0, with a separate hosted service.
+- [BatchData](https://github.com/batchdataco/batchdata-mcp-server) - Official hosted MCP server for U.S. property data covering 169 million+ parcels: property lookup, comps, property search, skip tracing, and address and phone checks. Remote Streamable HTTP at `https://mcp.batchdata.com` with OAuth sign-in; requires a BatchData account.
 
 ## Web & Search
 
