@@ -117,7 +117,8 @@
 ## Marketing & Advertising
 
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data through the [Google Ads MCP](https://github.com/nowork-studio/NotFair/tree/main/google-ads), [Meta Ads MCP](https://github.com/nowork-studio/NotFair/tree/main/meta-ads), Google Search Console MCP, and Google Analytics (GA4) MCP. MIT licensed, ~2.9k stars.
-- [LogNorm](https://lognorm.com) - Hosted MCP server that hands your SEO/GEO growth backlog (site audits, fixes, content, AI-visibility tracking) to Claude Code, Codex and Cursor. Streamable HTTP at `https://lognorm.com/api/mcp` with OAuth 2.1, no API keys; [docs](https://lognorm.com/docs/agents).
+- [LogNorm](https://lognorm.com) - Hosted MCP server that hands your SEO/GEO growth backlog (site audits, fixes, content, AI-visibility tracking) to Claude Code, Codex and Cursor. Streamable HTTP at 
+- [PixelFlow](https://github.com/PixelFlow-org/mcp) - Official hosted MCP server for server-side conversion tracking across Meta, Google Ads, TikTok, ChatGPT Ads, Snapchat, Reddit and Pinterest. Streamable HTTP at `https://api.pixelflow.so/mcp` with OAuth; no token is pasted. [Docs](https://pixelflow.so/features/mcp).`https://lognorm.com/api/mcp` with OAuth 2.1, no API keys; [docs](https://lognorm.com/docs/agents).
 
 - [Poptin](https://github.com/Poptin-LTD/Poptin-MCP) - Official hosted MCP server to create email campaigns, build subscriber segments, and analyze email, popup, and form performance. Requires a Poptin account and OAuth sign-in.
 
