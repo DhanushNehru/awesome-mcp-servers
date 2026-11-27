@@ -96,6 +96,7 @@
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers) - Browser automation to interact with dynamic web pages.
 - [AISOTools MCP](https://aisotools.com/mcp) - Hosted MCP server to search, compare, and find alternatives across an AI tool catalog (21 categories). No API key required.
 - [Tanod MCP](https://tanod.dev/mcp) - Hosted remote MCP with pay-per-call tools (x402 USDC on Base or Polygon, free daily allowance per IP) for web page to Markdown, screenshots, web search, PDF and image processing, and DNS and TLS lookups.
+- [CurlShot MCP](https://curlshot.com/docs/guides/ai-agents) - Hosted MCP server that captures a public web page as an image, PDF or scrolling video (`take_screenshot`, `list_devices`). Remote Streamable HTTP at `https://curlshot.com/api/mcp`. Needs an access key; the free plan has 50 screenshots a month, no card.
 
 ## Analytics & Marketing
 
