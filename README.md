@@ -58,6 +58,7 @@
 - [UIZZE](https://uizze.com) - Codex-first hosted MCP for researching real web and iOS UI references, creating design contracts, and validating, auditing, and critiquing rendered interfaces.
 - [x402-cloudflare-starter](https://github.com/ANAMIZED/x402-cloudflare-starter) - Cloudflare Workers starter for USDC x402 micropayments on Base and Solana.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run beneath the harness and replays it offline from the recorded bytes with no model called; the MCP server serves the trace store over stdio so an agent can list, read, diff and replay its own runs. Install with `npm install --global orcareplay`, then `orca mcp`.
+- [Sandscale](https://sandscale.dev/docs) - Hosted remote MCP server (`https://mcp.sandscale.dev/mcp`, Streamable HTTP, OAuth 2.1) that lets AI coding agents create and run Firecracker microVM sandboxes, with every call recorded in an audit log.
 
 - [Lantern Works](https://github.com/connormatthewdouglas/agent-work-stack-deals) - Read-only, keyless MCP for GPU rental price comparison across tracked providers, with cited rates and each price's age. Install: `uvx lantern-works-deals-mcp`. Docs: https://thelanternworks.com/for-agents/?ref=gh-dhanushmcp
 
