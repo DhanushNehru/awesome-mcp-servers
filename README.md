@@ -107,6 +107,7 @@
 - [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) - API and MCP server for AI-agent social media planning, adaptation, review, scheduling, publishing, media, and analytics. [Documentation](https://app.bulkpublish.com/docs)
 
 - [Unfetch](https://unfetch.com) - Hosted Google Ads MCP server with Google Analytics and Google Search Console reporting, keyword research, and web research; analyze campaign spend, conversions, search terms, and landing pages with read-only account access and OAuth.
+- [B2B Market Intel MCP](https://github.com/truonggiang0111/b2b-market-intel-mcp) - Zero-dependency Node.js STDIO MCP server with 3 zero-key tools (Google News URL decoder, UK government tenders, ClinicalTrials.gov sponsor leads) and 5 Apify B2B intelligence scrapers.
 
 ## E-commerce & Retail
 
