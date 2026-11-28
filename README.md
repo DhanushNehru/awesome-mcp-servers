@@ -85,6 +85,7 @@
 - [Live Tennis API MCP](https://github.com/livetennisapi/livetennisapi-mcp) — Live tennis match state (score, current server, three-valued break-point flag, retirement/walkover/completed) plus players, rankings, Elo, and fixtures. Read-only data feed; free tier, no card, on the official MCP Registry.
 
 - [RowSafe](https://github.com/rowsafe/rowsafe) - Database health, backup and recovery workflows, and managed database provisioning via local or remote MCP. The agent, CLI and MCP server are Apache-2.0, with a separate hosted service.
+- [DC Hub](https://github.com/azmartone67/dchub-mcp-server) - DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. Remote MCP endpoint: `https://dchub.cloud/mcp`.
 
 ## Web & Search
 
